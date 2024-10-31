@@ -1,0 +1,48 @@
+---
+layout: default
+---
+{{ content }}
+
+<div class="fs-4 fw-bold mb-3">
+  <i class="bi bi-megaphone-fill"></i> Team Updates
+</div>
+
+<h1>My Blog</h1>
+<p>Number of posts: {{ paginator.posts | size }}</p>
+
+{% for post in paginator.posts %}
+<div class="w-100 border-bottom pt-1 pb-1">
+  <div class="d-flex justify-content-between">
+    <a class="fs-5 text-decoration-none" href="{{ post.url | relative_url }}">
+      {{ post.title | escape }}
+    </a>
+    <div>
+      <span class="text-muted">
+        {{ post.date | date: date_format }}
+      </span>
+      <br>
+      {% for tag in post.tags %}
+      <span class="badge bg-info-subtle text-info-emphasis rounded-pill">
+        {{ tag }}
+      </span>
+      {% endfor %}
+    </div>
+  </div>
+</div>
+{% endfor %}
+
+<div class="pagination">
+  {% if paginator.previous_page %}
+  <a href="{{ paginator.previous_page_path }}" class="btn btn-primary">Previous</a>
+  {% endif %}
+
+  {% for page in (1..paginator.total_pages) %}
+  <a href="{{ paginator.permalink | append: page | relative_url }}" class="btn btn-secondary">
+    {{ page }}
+  </a>
+  {% endfor %}
+
+  {% if paginator.next_page %}
+  <a href="{{ paginator.next_page_path }}" class="btn btn-primary">Next</a>
+  {% endif %}
+</div>
