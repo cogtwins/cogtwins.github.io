@@ -20,14 +20,14 @@
 
 date_format: "%b %d, %Y"
 title: Cognitive Industrial Digital Twins Lab
-email: 202486060005@sdust.edu.cn
+email: jiehan.zhou@sdust.edu.cn
 description: >- # this means to ignore newlines until "baseurl:"
   Official web of Cognitive Industrial Digital Twins Lab team
-baseurl: "/labweb" # the subpath of your site, e.g. /blog
-url: "https://alfa-echo-niner-ait.github.io/labweb" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://cogtwins.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
-github_username:  alfa-echo-niner-ait
-paginate: 2  # Number of posts per page
+github_username: cogtwins
+paginate: 5  # Number of posts per page
 paginate_path: "/page:num/"
 
 

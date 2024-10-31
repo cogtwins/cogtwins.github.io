@@ -8,16 +8,9 @@ layout: default
 
   <header class="bg-light ps-2 pe-2">
     <h1 class="display-6" itemprop="name headline">{{ page.title | escape }}</h1>
-    <p class="post-meta">
-      <time class="text-secondary" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
-        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-        {{ page.date | date: site.date_format }}
-      </time>
-      {%- if page.author -%}
-      <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card"
-          itemprop="name">{{ page.author }}</span></span>
-      {%- endif -%}
-    </p>
+    <div class="text-muted pb-2">
+      Posted by: {{ page.author }}, on {{ page.date | date: site.date_format }}
+    </div>
   </header>
 
   <div class="mt-3" itemprop="articleBody">
