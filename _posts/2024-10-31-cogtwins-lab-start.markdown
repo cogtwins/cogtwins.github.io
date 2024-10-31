@@ -3,7 +3,7 @@ layout: post
 title: "Cognitive Industrial Digital Twins Lab Starts Its Journey"
 author: "Ayub Ali Emon"
 date: 2024-10-31
-tags: team update news
+tags: team news
 ---
 
 
