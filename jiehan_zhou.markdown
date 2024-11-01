@@ -60,29 +60,29 @@ permalink: /jiehan_zhou/
     Selected Publications
 </div>
 <ol class="list-group-numbered mt-3">
-    <li class="list-group-item">
+    <li class="list-group-item mb-1">
         Quanbo Lu; Xinqi Shen; <b>Jiehan Zhou</b>; Mei Li ; MBD-Enhanced Asset Administration Shell for Generic
         Production Line
         Design, IEEE Transactions on Systems, Man and Cybernetics: Systems, 2024, 54(9): 5593-5605
     </li>
-    <li class="list-group-item">
+    <li class="list-group-item mb-1">
         Tiantian Lu; Jianbin Xiong; <b>Jiehan Zhou</b>; Qi Wang; jian Cen; Minghui Liu; Qinghua Zhang; Qingyun Dai; Tong
         Zhang;
         Juntao Zhang ; Bearing Fault Diagnosis Using Multi-Channel Broad Learning System Based on Positive-Negative
         Weighted Voting Mechanism, IEEE Transactions on Instrumentation & Measurement, 2024, 73
     </li>
-    <li class="list-group-item">
+    <li class="list-group-item mb-1">
         <b>Jiehan Zhou</b>; Shouhua Zhang; Mu Gu ; Revisiting Digital Twins: Origins, Fundamentals, and Practices,
         Frontiers of
         Engineering Management, 2022, 9(4): 668-676
     </li>
-    <li class="list-group-item">
+    <li class="list-group-item mb-1">
         Jianli Zhao; Xijiao Geng; <b>Jiehan Zhou</b>; Qiuxia Sun; Yu Xiao; Zeli Zhang; Zhengbin Fu ; Attribute Mapping
         and
         Autoencoder Neural Network Based Matrix Factorization Initialization for Recommendation Systems, Knowledge-Based
         Systems, 2019, 166(166): 132-139
     </li>
-    <li class="list-group-item">
+    <li class="list-group-item mb-1">
         <b>Jiehan Zhou</b>; Qinghua Lu; Wenbin Dai; Ray Y. Zhong ; Guest Editorial: Special Section on Artificial Intelligence
         and Big Data Analytics for Cloud Manufacturing, IEEE Transactions on Industrial Informatics, 2022, 2022: 1-3
     </li>
