@@ -9,7 +9,7 @@ layout: default
   <header class="bg-light ps-2 pe-2">
     <h1 class="display-6" itemprop="name headline">{{ page.title | escape }}</h1>
     <div class="text-muted pb-2">
-      Posted by: {{ page.author }}, on {{ page.date | date: site.date_format }}
+      <i class="bi bi-person text-dark"></i> Author: {{ page.author }} <i class="bi bi-calendar3 text-dark"></i> Date {{ page.date | date: site.date_format }}
     </div>
   </header>
 

@@ -1,0 +1,44 @@
+<section id="contributors">
+    <div id="contributors-list">
+        Loading...
+    </div>
+</section>
+
+
+<script>
+    async function fetchContributors() {
+        const repoOwner = 'cogtwins'; 
+        const repoName = 'cogtwins.github.io';
+        const contributorsUrl = `https://api.github.com/repos/${repoOwner}/${repoName}/contributors`;
+
+        try {
+            const response = await fetch(contributorsUrl);
+            const contributors = await response.json();
+
+            const container = document.getElementById('contributors-list');
+            container.innerHTML = '';
+
+            contributors.forEach(contributor => {
+                const contributorElement = document.createElement('div');
+                contributorElement.classList.add('d-flex', 'justify-content-evenly', 'flex-column', 'flex-md-row');
+                contributorElement.innerHTML = `
+                    <div class="text-center">
+                        <img class="rounded-circle border shadow" height="80px" width="80px"
+                            src="${contributor.avatar_url}" alt="${contributor.login}" />
+                        <div class="fs-4 fw-light">
+                            <a class="text-decoration-none" href="${contributor.html_url}" target="_blank">
+                                ${contributor.login}
+                            </a>
+                        </div>
+                    </div>
+                `;
+                container.appendChild(contributorElement);
+            });
+        } catch (error) {
+            console.error('Error fetching contributors:', error);
+            document.getElementById('contributors-list').innerText = 'Unable to load contributors.';
+        }
+    }
+
+    fetchContributors();
+</script>
