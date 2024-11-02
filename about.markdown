@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About
+title: About this Site
 permalink: /about/
 ---
 <div class="fs-4 fw-semibold border-bottom mb-3">
@@ -8,7 +8,9 @@ permalink: /about/
     About this Site
 </div>
 
-Official web of Cognitive Industrial Digital Twins Lab Starts Its Journey team.
+Official web of Cognitive Industrial Digital Twins team.
+
+Licence: **MIT**
 
 GitHub repository: [https://github.com/cogtwins/cogtwins.github.io](github.com/cogtwins/cogtwins.github.io)
 
