@@ -12,7 +12,7 @@ Official web of Cognitive Industrial Digital Twins team.
 
 Licence: **MIT**
 
-GitHub repository: [https://github.com/cogtwins/cogtwins.github.io](github.com/cogtwins/cogtwins.github.io)
+GitHub repository: [github.com/cogtwins/cogtwins.github.io](https://github.com/cogtwins/cogtwins.github.io)
 
 This design is the based on Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
