@@ -38,7 +38,7 @@ permalink: /luo_hanjiang/
     Biography
 </div>
 <p class="mt-3" style="text-align: justify;">
-    教授，博士生导师，青岛西海岸高层次紧缺引进人才，香港科技大学访问学者，中国海洋大学博士毕业。从事物联网、人工智能、深度强化学习、无人机智能协同、机器人集群协同智能、海洋物联网、大模型与Agentic系统等研究工作，主持国家基金面上项目1项、国家基金联合基金重点项目子课题1项、山东省基金面上项目2项、山东省高校科研项目1项，先后参加国家973、863、国家基金等十余项。获得山东省高校优秀科研成果奖一等奖1项（首位），授权发明专利8项（首位）、国家级教学成果奖二等奖1项，山东省省级教学成果奖特等奖1项、山东省省级教学成果奖二等奖1项。发表SCI/EI检索论文50余篇，Google Scholar累计引用1750余次，其中包括国际TOP期刊、CCF推荐A类期刊、IEEE Trans期刊、中科院JCR分区1区期刊等，如IEEE Communications Surveys and Tutorials、ACM Computing Surveys (CSUR)、IEEE Internet of Things Journal、IEEE Transactions on Parallel and Distributed Systems (TPDS)、IEEE Transactions on Vehicular Technology (TVT)等国际知名期刊。担任中国计算机学会CCF物联网专委会委员、ACM SIGAPP China 执行委员、山东省人工智能学会视觉应用与智能技术专委会委员、中国图灵大会ACM TURC组委会等多个会议TPC，并担任IEEE TMC、IEEE TVT、IEEE IOTJ等多个国际期刊审稿人。在中国物联网大会等做物联网专业报告50余次，主编《智能家居概论》、《物联网导论》、《物联网应用技术导论》等教材。
+    教授，博士生导师，青岛西海岸高层次紧缺引进人才，香港科技大学访问学者, 中国海洋大学博士毕业。从事物联网、人工智能、深度强化学习、无人机智能协同、机器人集群协同智能、海洋物联网、大模型与Agentic系统等研究工作，主持国家基金面上项目1项、国家基金联合基金重点项目子课题1项、山东省基金面上项目2项、山东省高校科研项目1项，先后参加国家973、863、国家基金等十余项。获得山东省高校优秀科研成果奖一等奖1项（首位），授权发明专利8项（首位）、国家级教学成果奖二等奖1项，山东省省级教学成果奖特等奖1项、山东省省级教学成果奖二等奖1项。发表SCI/EI检索论文50余篇，Google Scholar累计引用1750余次，其中包括国际TOP期刊、CCF推荐A类期刊、IEEE Trans期刊、中科院JCR分区1区期刊等，如IEEE Communications Surveys and Tutorials、ACM Computing Surveys (CSUR)、IEEE Internet of Things Journal、IEEE Transactions on Parallel and Distributed Systems (TPDS)、IEEE Transactions on Vehicular Technology (TVT)等国际知名期刊。担任中国计算机学会CCF物联网专委会委员、ACM SIGAPP China 执行委员、山东省人工智能学会视觉应用与智能技术专委会委员、中国图灵大会ACM TURC组委会等多个会议TPC，并担任IEEE TMC、IEEE TVT、IEEE IOTJ等多个国际期刊审稿人。在中国物联网大会等做物联网专业报告50余次，主编《智能家居概论》、《物联网导论》、《物联网应用技术导论》等教材。
 </p>
 
 <div class="fs-4 fw-semibold border-bottom">
@@ -47,13 +47,13 @@ permalink: /luo_hanjiang/
 </div>
 <ol class="list-group-numbered mt-3">
     <li class="list-group-item mb-1">
-        国家级教学成果奖二等奖，国家级，2018/12
+        国家级教学成果奖二等奖, 国家级, 2018/12
     </li>
     <li class="list-group-item mb-1">
-        山东省高等学校科学技术奖一等奖（首位），省级，2017/12
+        山东省高等学校科学技术奖一等奖 (首位), 省级, 2017/12
     </li>
     <li class="list-group-item mb-1">
-        山东省省级教学成果奖特等奖，省级，2018/04
+        山东省省级教学成果奖特等奖，省级, 2018/04
     </li>
     <li class="list-group-item mb-1">
         山东省省级教学成果奖二等奖，省级，2022/03

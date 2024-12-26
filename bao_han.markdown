@@ -15,7 +15,7 @@ permalink: /bao_han/
     </div>
     <div class="btn-group mt-2 gap-3">
         <i class="bi bi-tencent-qq"></i> 478317316
-        <a href="baohan@sdust.edu.cn" class="text-decoration-none">
+        <a href="mailto:baohan@sdust.edu.cn" class="text-decoration-none">
             <i class="bi bi-envelope-at-fill"></i> baohan@sdust.edu.cn
         </a>
     </div>
@@ -28,6 +28,8 @@ permalink: /bao_han/
 <ul class="list-group-numbered mt-3">
   <li class="list-group-item">
     Lecturer, College of Computer Science and Engineering, Shandong University of Science and Technology
+    <br>
+    <b>Main Courses: </b> Artificial Intelligence, Advanced Algebra (Linear Algebra)
   </li>
 </ul>
 
@@ -40,17 +42,71 @@ permalink: /bao_han/
 </p>
 
 <div class="fs-4 fw-semibold border-bottom">
-    <i class="bi bi-award"></i>
-    Awards & Honors
+    <i class="bi bi-lightbulb"></i>
+    Research Interests
+</div>
+<p class="mt-3" style="text-align: justify;">
+    I am a young researcher who is committed to the research of interpretability of deep neural networks. I focus on the theoretical exploration of deep learning algorithms in the field of artificial intelligence. At the same time, I am passionate about the practical application of deep neural networks and have long been concerned about the development of general artificial intelligence (AGI). My research focuses on the theoretical research of Hopfield neural networks, and I try to unveil the operating mechanism of deep neural networks through this model, laying the foundation for the research of interpretability of deep neural networks.
+    <br>
+    At the application level, I am currently very interested in the blind path recognition algorithms and software that improve the travel experience of blind people, and pay attention to the technological improvement of the modern life of vulnerable groups. I am committed to using cutting-edge algorithms to solve practical problems, so as to promote the implementation and development of artificial intelligence in the field of social welfare, do some practical and interesting things, and truly realize the goal of technology empowering society.
+</p>
+
+<div class="fs-4 fw-semibold border-bottom">
+    <i class="bi bi-chat-quote"></i>
+    Training Concept
+</div>
+<p class="mt-3" style="text-align: justify;">
+    As a mentor, I firmly believe that the following points are crucial to the growth of students:
+    <ol class="list-group-numbered mt-3">
+        <li class="list-group-item mb-1">
+            Autonomous learning and practical ability: help students develop autonomous learning ability, independent analysis and problem-solving ability.
+        </li>
+        <li class="list-group-item mb-1">
+            Innovation and critical thinking: encourage students to propose new ideas and question existing theories, and explore unknown areas of knowledge.
+        </li>
+        <li class="list-group-item mb-1">
+            Comprehensive development: Focus on the cultivation of academic ability and personal comprehensive quality, laying the foundation for the long-term development of students.
+        </li>
+    </ol>
+    We recruit master's degree students all year round, and we look forward to the following characteristics of students: <b>self-motivated and good at thinking!</b> Whether you are familiar with my research field or have your own research interests and ideas, I will work with you to explore the academic world that interests you. In my team, you will have the opportunity to participate in frontier research projects, learn and practice the latest artificial intelligence technologies. At the same time, I support students to actively participate in domestic and international academic conferences, publish high quality papers, and promote the sustainable development of the academic community. Those with excellent paper results can be recommended to top universities in China such as Chinese Academy of Sciences, Tsinghua University, Beihang University, Zhejiang University, Xi'an Jiaotong University, Huazhong University of Science and Technology, Tianjin University, or to well-known universities abroad such as Canada, the United States, Finland, Norway, Australia, etc. for further study. Looking forward to your joining! If interested, please contact me.
+</p>
+
+<div class="fs-4 fw-semibold border-bottom">
+    <i class="bi bi-journal-plus"></i>
+    Academic Experiences
 </div>
 <ol class="list-group-numbered mt-3">
+    <li class="list-group-item mb-1">
+        <i>2017.02-2017.08</i> Visiting scholar at the School of Electronic Engineering and Computer Science (EECS) at the University of Ottawa, Canada.
+    </li>
+    <li class="list-group-item mb-1">
+        <i>2013.06-2013.08</i> Summer research at the School of Mathematics, Michigan State University (MSU), USA.
+    </li>
 </ol>
 
 <div class="fs-4 fw-semibold border-bottom">
     <i class="bi bi-easel"></i>
-    Research Projects
+    Projects Hosted/Participated
 </div> 
 <ol class="list-group-numbered mt-3">
+    <li class="list-group-item mb-1">
+        <i>2025.01-2027.12 (Host)</i> Youth Fund of Natural Science Foundation of Shandong Province (ZR2024QF269), Model structure research and memory capacity analysis of associative memory networks.
+    </li>
+    <li class="list-group-item mb-1">
+        <i>2022.12-2027.12 (Host)</i> Elite Foundation of Shandong University of Science and Technology, Research Start-up Fund.
+    </li>
+    <li class="list-group-item mb-1">
+        <i>2017.01-2021.12 (Participant)</i> National Natural Science Foundation of China General Project (61772059), Research on knowledge graph construction, reasoning and question answering based on multi-source heterogeneous data.
+    </li>
+    <li class="list-group-item mb-1">
+        <i>2015.01-2019.12 (Participant)</i> National Youth 973 Program (2015CB358700), Basic theory and key technology of big data group computing.
+    </li>
+    <li class="list-group-item mb-1">
+        <i>2014.09-2018.12 (Participant)</i> National Key Basic Research and Development Program (973 Program) (2014CB340300), Theory of big data computing in network information space.
+    </li>
+    <li class="list-group-item mb-1">
+        <i>2014.01-2016.12 (Participant)</i> National Natural Science Foundation Youth Fund (61300070), Research on recommendation system for social network user needs.
+    </li>
 </ol>
 
 <div class="fs-4 fw-semibold border-bottom">
