@@ -1,6 +1,6 @@
 ---
 layout: default
-title: <b>Luo Hanjiang</b>
+title: Luo Hanjiang
 permalink: /luo_hanjiang/
 ---
 

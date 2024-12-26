@@ -1,6 +1,6 @@
 ---
 layout: default
-title: <b>Li Zhe</b>
+title: Li Zhe
 permalink: /li_zhe/
 ---
 

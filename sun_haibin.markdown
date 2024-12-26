@@ -1,6 +1,6 @@
 ---
 layout: default
-title: <b>Sun Haibin</b>
+title: Sun Haibin
 permalink: /sun_haibin/
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: <b>Bao Han</b>
+title: Bao Han
 permalink: /bao_han/
 ---
 

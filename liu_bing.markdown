@@ -1,6 +1,6 @@
 ---
 layout: default
-title: <b>Liu Bing</b>
+title: Liu Bing
 permalink: /liu_bing/
 ---
 
