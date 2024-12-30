@@ -38,7 +38,7 @@ permalink: /wang_jinrui/
     Biography
 </div>
 <p class="mt-3" style="text-align: justify;">
-    王金瑞，男，1989年生，工学博士(后)、学术教授，山东枣庄人，2019年南京航空航天大学博士毕业，山东科技大学“菁英计划”A类人才，全球前2%顶尖科学家(2023年)，“青岛市高端冰箱技术专家工作站”在站专家。先后承担国家自然科学基金、中国博士后科学基金等纵向课题6项，参与国家重点研发计划项目等课题的研究工作。发表学术论文90余篇，以第一或通讯发表SCI论文20余篇、卓越行动计划期刊5篇。根据谷歌学术统计总被引1700+，单篇最高被引200+，H-index为23。授权发明专利10余件，荣获山东省科技进步二等奖、青岛市科技进步二等奖。参与指导硕士生获山东省优秀硕士学位论文1人、国家奖学金6人。
+    王金瑞，男，1989年生，工学博士、博士后、学术教授，山东枣庄人，2019年南京航空航天大学博士毕业，2021年博士后出站留校任教，山东科技大学“菁英计划”A类人才，入选全球前2%顶尖科学家榜单(2023、2024)，山东声学学会优秀青年科技工作者。先后承担国家自然科学基金、山东省自然科学基金、中国博士后科学基金等纵向课题10余项。发表高水平学术论文100余篇，根据谷歌学术统计总被引2400+，单篇最高被引230+，H-index为28。授权发明专利10余件，荣获山东省科学技术进步二等奖(3/10)。指导硕士生获山东省优秀硕士学位论文1人、国家奖学金7人。
 </p>
 
 <div class="fs-4 fw-semibold border-bottom">
@@ -96,46 +96,31 @@ permalink: /wang_jinrui/
         国家自然科学基金青年基金(52005303)“数据增强与数字孪生融合的机械设备实时健康监测研究”，项目主持人，2021.01-2023.12
     </li>
     <li class="list-group-item mb-1">
-        山东省自然科学基金青年基金(ZR202020QE157)“时变转速下基于数据增强的智能故障诊断方法研究”，项目主持人，2021.01-2023.12
+        山东省自然科学基金面上项目(ZR2024ME236)“强冲击激扰下截割部主轴承虚实交互故障诊断研究”，项目主持人，2025.01-2027.12
     </li>
     <li class="list-group-item mb-1">
-        中国博士后科学基金面上项目(2019M662399)“非典型工况下机械故障的对抗迁移诊断方法研究”，项目主持人，2019.09-2021.05
+        山东省重点研发计划-科技型中小企业创新能力提升工程项目(2024TSGC0253) “玻璃压延机主锟轴承故障智能诊断技术研究” 项目负责人，2025.01-2026.12 
     </li>
     <li class="list-group-item mb-1">
-        山东省博士后创新项目(202003029)“机械非稳态工况监测数据增强与故障诊断方法研究”，项目主持人，2020.09-2021.05
+        工业流体节能与污染控制教育部重点实验室开放课题(CK-2024-0048) “多源噪声激扰下自注意力引导的高速列车牵引齿轮分布式健康监测” 项目负责人，2025.01-2026.12 
     </li>
     <li class="list-group-item mb-1">
-        青岛市博士后应用研究项目“变转速工况下传动旋转部件智能故障诊断方法研究”，项目主持人，2019.05-2021.04
+        山东省自然科学基金青年基金(ZR202020QE157)“时变转速下基于数据增强的智能故障诊断方法研究”，项目主持人，2021.01-2023.12 
     </li>
     <li class="list-group-item mb-1">
-        山东科技大学机电学院全职博士后资助项目，项目主持人，2019.12-2021.12
+        中国博士后科学基金面上项目(2019M662399)“非典型工况下机械故障的对抗迁移诊断方法研究”，项目主持人，2019.09-2021.05  
     </li>
     <li class="list-group-item mb-1">
-        江苏省普通高校研究生创新计划项目(KYLX16_0329)“传动系统转速大波动诊断方法研究”，项目主持人，2016.09-2018.03
+        山东省博士后创新项目(202003029)“机械非稳态工况监测数据增强与故障诊断方法研究”，项目主持人，2020.09-2021.05  
     </li>
     <li class="list-group-item mb-1">
-        山东省高等学校青年创新团队“深地采煤装备性能强化”，核心成员，2019.10-2022.09.
+        青岛市博士后项目(QDBSH20220202109)“嵌入式冰箱铰链开发及噪声管理技术研究”，项目主持人，2022.03-2024.02  
     </li>
     <li class="list-group-item mb-1">
-        国家自然科学基金面上项目(51675262)“转速大波动机械特征敏感参数提取与评估方法研究”，主要参与人，2017.01-2020.12
+        青岛市博士后应用研究项目“变转速工况下传动旋转部件智能故障诊断方法研究”，项目主持人，2019.05-2021.04 
     </li>
     <li class="list-group-item mb-1">
-        国家重点研发计划项目(2016YFD0700800)“新型节能环保农用发动机开发”，主要参与人，2016.04-2020.03
-    </li>
-    <li class="list-group-item mb-1">
-        预研领域基金课题(6140210020102)“复杂振动与噪声源识别及其传递路径的建模与分析方法”，主要参与人，2016.08-2020.07
-    </li>
-    <li class="list-group-item mb-1">
-        国家重大科技专项项目(2017-IV-0008-0045) 两机专项“典型故障动力学建模和诊断方法研究”，主要参与人，2018.01-2021.12
-    </li>
-    <li class="list-group-item mb-1">
-        常州格力博有限公司“大型草坪绿地电动剪草车技术研发项目”，主要负责人，2015.10-2016.08
-    </li>
-    <li class="list-group-item mb-1">
-        中航“XX”所“直升机传动系统非线性故障诊断方法研究”，主要负责人，2016.10-2017.06
-    </li>
-    <li class="list-group-item mb-1">
-        常州常柴股份有限公司“柴油三轮运输车噪声振动分析与控制技术研究”，主要负责人，2017.01-2018.12 176:109197。
+        山东科技大学“菁英计划”A类人才引进项目，项目主持人，2021.07-2026.06
     </li>
 </ol>
 
@@ -182,33 +167,36 @@ permalink: /wang_jinrui/
 </div>
 <ol class="list-group-numbered mt-3">
     <li class="list-group-item mb-1">
-        <b>Wang Jinrui</b>, Ji Shanshan, Han Baokun, Bao Huaiqian, et al. Deep adaptive adversarial network-based method for mechanical fault diagnosis under different working conditions [J]. Complexity, 2020, 2020: 1-11.
+        <b>Wang Jinrui</b>, Zhang Xuepeng, Zhang Zongzhen*, et al. Attention guided multi-wavelet adversarial network for cross domain fault diagnosis[J]. Knowledge-based systems, 2024, 284, 111285. (SCI一区 Top)
     </li>
     <li class="list-group-item mb-1">
-        <b>Wang Jinrui</b>, Ji Shanshan, Han Baokun, et al. Intelligent fault diagnosis for rotating machinery using L1/2-SF under variable rotational speed [J]. Proceedings of the Institution of Mechanical Engineers, Part D: Journal of Automobile Engineering, 2021, 235(5) 1409-1422.
+        Lian Yan, <b>Wang Jinrui</b>, Zhuoli Li, et al. Residual attention guided vision transformer with acoustic-vibration signal feature fusion for cross-domain fault diagnosis[J]. Advanced Engineering Informatics, 2025, 65, 103003. (SCI一区 Top)
     </li>
     <li class="list-group-item mb-1">
-        <b>Wang Jinrui</b>, Han Baokun, Huaiqian Bao, et al. Data augment method for machine fault diagnosis using conditional generative adversarial networks[J]. Proceedings of the Institution of Mechanical Engineers, Part D: Journal of Automobile Engineering, 2020, 234(12): 2719-2727.
+        Lv Xingwang, <b>Wang Jinrui</b>, Qin Ranran, et al. Self-learning guided residual shrinkage network for intelligent fault diagnosis of planetary gearbox [J]. Engineering Applications of Artificial Intelligence. 2025, 139, 109603. (SCI二区 Top)
     </li>
     <li class="list-group-item mb-1">
-        Bao Huaiqian, Shi Zhaoting, <b>Wang Jinrui</b>, et al. A non-contact fault diagnosis method for bearings and gears based on generalized matrix norm sparse filtering [J]. Entropy, 2021, 23, 1075.
+        Zhang Xuepeng, <b>Wang Jinrui</b>, Zhang Zongzhen, et al. Integrated decision-making with adaptive feature weighting adversarial network for multi-target domain compound fault diagnosis of machinery[J]. Advanced Engineering Informatics, 2024, 62, 102730. (SCI一区 Top)
     </li>
     <li class="list-group-item mb-1">
-        Chu Zhenyun, Ji Shanshan, <b>Wang Jinrui</b>, Zhang Zongzhen, et al. A generalizable sample resolution augmentation method for mechanical fault diagnosis based on ESPCN [J]. Journal of Sensors, 2021.
+        <b>Wang Jinrui</b>, Zhang Zongzhen, Liu Zhiliang, et al. Digital twin aided adversarial transfer learning method for domain adaptation fault diagnosis [J]. Reliability Engineering and System Safety, 2023, 234: 109152. (SCI一区 Top, ESI高被引)
     </li>
     <li class="list-group-item mb-1">
-        Wang Xiaoyu, Han Baokun, Lu Tao, Zhang Guowei, <b>Wang Jinrui</b>. Intelligent rotating machinery fault diagnosis based on super-resolution enhancement using data augmentation under large speed fluctuation [J]. Measurement Science & Technology, 2021, 32(12): 125105.
+        Zhang Zongzhen, <b>Wang Jinrui</b>, Li Shunming, Han Baokun, et al. Fast nonlinear blind deconvolution for rotating machinery fault diagnosis [J]. Mechanical Systems and Signal Processing, 2023, 187, 109918. (SCI一区 Top)
     </li>
     <li class="list-group-item mb-1">
-        <b>Wang Jinrui</b>, Li Shunming, Jiang Xingxing, et al. An automatic feature extraction method and its application in fault diagnosis [J]. Journal of Vibroengineering, 2017, 19(4):1392-8716.
+        Zhang Xuepeng, <b>Wang Jinrui</b>, Zhang Zongzhen, et al. Multiple Source Domain Transfer Fault Diagnosis Method in Rolling Bearing Under Variable Working Conditions[C]//The International Workshop on Fault Diagnostics and Prognostics(TEPEN2024-IWFDP). Qingdao, China, 8-11, May 2024. (Best Paper Award)
     </li>
     <li class="list-group-item mb-1">
-        Han Baokun, Jia Sixiang, Liu Guifang, <b>Wang Jinrui</b>. Imbalanced Fault Classification of Bearing via Wasserstein Generative Adversarial Networks with Gradient Penalty [J]. Shock and Vibration. 2020. (振动工程领域高质量科技期刊 T3 级)
+        Han Baokun, Jiang Xingwang, <b>Wang Jinrui</b>, Zhang Zongzhen. A novel domain adaptive fault diagnosis method for bearings based on unbalance data generation [J]. IEEE Transactions on Instrumentation and Measurement, 2023, 72, 3519911. (SCI二区 Top)
     </li>
     <li class="list-group-item mb-1">
-        贾美霞, 韩宝坤, <b>王金瑞</b>, 等. 基于迁移堆栈自编码器的轴承故障诊断方法[J]. 噪声与振动控制, 2021, 41(6): 84-89.
+        Dai Menghang, Liu Zhiliang, <b>Wang Jinrui</b>, Zuo Mingjian. Physics-driven feature alignment combined with dynamic distribution adaptation for three-cylinder drilling pump cross-speed fault diagnosis[J]. Reliability Engineering and System Safety, 2024, 251, 110369. (SCI一区 Top)
     </li>
     <li class="list-group-item mb-1">
-        <b>王金瑞</b>, 李舜酩, 韩宝坤. 不同顶端结构声屏障绕射声衰减量模拟分析[J]. 噪声与振动控制, 2016, 36(1):125-128.
+        张宗振, <b>王金瑞</b>, 韩宝坤, 等. 非线性稀疏盲解卷积的轴承早期故障诊断方法[J]. 机械工程学报, 2023, 59(16): 157-166. (中国科技期刊卓越行动计划梯队期刊T1级)
+    </li>
+    <li class="list-group-item mb-1">
+        <b>王金瑞</b>, 季珊珊, 张宗振, 等, 并行稀疏滤波在轴承声信号下的故障诊断[J]. 航空学报, 2023, 44(3): 426887. (航空航天核心期刊排名第一，中国科技期刊卓越行动计划梯队期刊)
     </li>
 </ol>
