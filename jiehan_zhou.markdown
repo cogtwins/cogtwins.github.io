@@ -12,7 +12,7 @@ permalink: /jiehan_zhou/
     src="{{ '/assets/imgs/jiehan.jpg' | relative_url }}"
   />
   <div class="fs-4 fw-light">Dr. Jiehan Zhou</div>
-  <div class="fs-5 fw-light text-secondary">Professor | Team Leader</div>
+  <div class="fs-5 fw-light text-secondary">Professor | PhD Supervisor | Team Leader</div>
   <div class="btn-group mt-2 gap-3">
     <a href="tel:+8615711207317" class="text-decoration-none">
       <i class="bi bi-telephone-fill"></i> +8615711207317
@@ -46,35 +46,7 @@ permalink: /jiehan_zhou/
   Research Interests
 </div>
 <p class="mt-3" style="text-align: justify">
-  <ol class="list-group-numbered">
-    <li class="list-group-item">
-      <b>Intelligence Equipment Operation & Maintenance:</b> Equipment Health
-      Monitoring, Fault Prediction and Diagnosis, Intelligent Maintenance
-      Strategies, Data-Driven Optimization, and Sensor Fusion.
-    </li>
-    <li class="list-group-item">
-      <b>Industrial Digital Twins:</b> Modeling, Cyber-Physical Feedback,
-      Real-Time Monitoring, Data Fusion, Predictive Maintenance, Digital
-      Simulation.
-    </li>
-    <li class="list-group-item">
-      <b>Auto Mobile Robots:</b> Path Planning, Real-Time Perception,
-      Environmental Mapping, Adaptive Navigation, Reinforcement Learning.
-    </li>
-    <li class="list-group-item">
-      <b>Intelligence Transportation:</b> Traffic Flow Prediction, Path
-      Optimization, Vehicular Networks, Big Data Analytics, Intelligent
-      Scheduling.
-    </li>
-    <li class="list-group-item">
-      <b>Visual Intelligence:</b> Image Recognition, Object Detection, Video
-      Analysis, Image Segmentation, 3D Reconstruction, Scene Understanding.
-    </li>
-    <li class="list-group-item">
-      <b>Industrial Large Models:</b> Knowledge Graphs, Generative AI, Domain
-      Adaptation Learning, Large-Scale Model Training, Data Augmentation.
-    </li>
-  </ol>
+  Intelligence Equipment Operation & Maintenance, Industrial Digital Twins, Auto Mobile Robots, Intelligence Transportation, Visual Intelligence, Industrial Large Models
 </p>
 
 <div class="fs-4 fw-semibold border-bottom">
@@ -106,30 +78,6 @@ permalink: /jiehan_zhou/
   published more than 100 papers in the fields of intelligent manufacturing,
   system modeling and simulation, industrial Internet, industrial big data,
   industrial big model, digital twin, and so on.
-  <br /><br />
-  Dr Jiehan Zhou is a Professor and Director of International Education and
-  Research Programs at the School of Computer Science at Shandong University of
-  Science and Technology and a Docent in the Department of Electronics and
-  Information Engineering at the University of Oulu, Finland. He has a rich
-  academic background and professional experience, having obtained a Ph.D. in
-  Mechanical Automation from Huazhong University of Science and Technology in
-  2000 and a Ph.D. in Computer Engineering from the University of Oulu, Finland
-  in 2011. He has worked at renowned research institutes and universities such
-  as Tsinghua University, VTT Technical Research Centre of Finland, INRIA in
-  France, Luxembourg Institute of Science and Technology (LIST), University of
-  Oulu, and University of Toronto, Canada with over 20 years of international
-  research experience across three continents. He has held positions such as
-  Senior Scientist, Team Leader, Laboratory Director, General Manager of an
-  Industrial Internet company in Germany, and Principal Engineer at a Research
-  Institute on Cloud Computing in Canada. He also serves as a visiting professor
-  at several Chinese universities, including Huazhong University of Science and
-  Technology. Professor Jiehan Zhou has conducted extensive research in
-  intelligent manufacturing, system modeling and simulation, industrial
-  internet, and industrial big data analysis, achieving remarkable
-  accomplishments in both academic and industrial fields. He has undertaken and
-  participated in numerous Chinese, Canadian, and European Union projects,
-  including the ERCIM Fellowship Programme, the EU FP6 Amigo Project, and the EU
-  ITEA4-CAM4Home Project.
 </p>
 
 <div class="fs-4 fw-semibold border-bottom">
