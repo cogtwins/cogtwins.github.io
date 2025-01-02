@@ -25,7 +25,7 @@ permalink: /jiehan_zhou/
       class="text-decoration-none"
       target="blank"
     >
-      <i class="bi bi-mortarboard"></i> Google Scholar
+      <i class="bi bi-mortarboard-fill"></i> Google Scholar
     </a>
   </div>
 </div>
@@ -38,6 +38,10 @@ permalink: /jiehan_zhou/
   <li class="list-group-item">
     Professor, Department: Internet of Things Engineering, Shandong University
     of Science and Technology
+    <br>
+    <a href="http://cise.sdust.edu.cn/home/Page/teacher_detail/catId/30/id/2343.html" class="text-decoration-none" target="blank">
+      <i class="bi bi-eye"></i> View Profile
+    </a>
   </li>
 </ol>
 
