@@ -11,16 +11,21 @@ permalink: /academic_exchange/
 
 <ol class="list-group-numbered mt-3">
   {% for ex in site.data.exchage_2024 %}
-  <li class="list-group-item">
-    {% if ex.relative_file %}
-      <!-- Use the local file path -->
-      <a class="text-decoration-none" href="{{ '/assets/exchange_2024/' | append: ex.file_url }}" target="_blank"> {{ ex.name }} </a>
-    {% else %}
-      <!-- Use the external URL directly -->
-      <a class="text-decoration-none" href="{{ ex.file_url }}" target="_blank"> {{ ex.name }} </a>
-    {% endif %}
-    <br>
-    <span class="text-muted ms-3">{{ ex.date | date: site.date_format }}</span>
-  </li>
+    <li class="list-group-item">
+      {% if ex.relative_file %}
+        {% if ex.notice %}
+          <a class="text-decoration-none" href="{{ '/academic_exchange/' | append: ex.file_url }}" target="_blank"> {{ ex.name }} </a>
+        {% else %}
+        <!-- Use the local file path -->
+          <a class="text-decoration-none" href="{{ '/assets/exchange_2024/' | append: ex.file_url }}" target="_blank"> {{ ex.name }} </a>
+        {% endif %}
+      {% else %}
+        <!-- Use the external URL directly -->
+        <a class="text-decoration-none" href="{{ ex.file_url }}" target="_blank"> {{ ex.name }} </a>
+      {% endif %}
+      <br>
+      <span class="text-muted ms-3">{{ ex.date | date: site.date_format }}</span>
+    </li>
   {% endfor %}
 </ol>
+

@@ -1,17 +1,27 @@
+- serial: 4
+  name: "计算机学院国际部国际交流会"
+  date: "2025-01-08"
+  file_url: "int_ex_met_jan2025"
+  relative_file: true
+  notice: true
+
 - serial: 3
   name: "J13蓝光报告厅-计算机科学与工程学院"
   date: "2024-11-01"
   file_url: "J13蓝光报告厅-计算机科学与工程学院 11-01.pdf"
   relative_file: true
+  notice: false
 
 - serial: 2
   name: "医疗康复机器人机遇与挑"
   date: "2024-10-28"
   file_url: "医疗康复机器人机遇与挑 28-10.jpg"
   relative_file: true
+  notice: false
 
 - serial: 1
   name: "面向工业大模型的报告通知"
   date: "2024-05-21"
   file_url: "面向工业大模型的报告通知 21-05.pdf"
   relative_file: true
+  notice: false
