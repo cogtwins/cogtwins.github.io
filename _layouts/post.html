@@ -7,9 +7,9 @@ layout: default
 <article itemscope itemtype="http://schema.org/BlogPosting">
 
   <header class="bg-light ps-2 pe-2">
-    <h1 class="display-6" itemprop="name headline">{{ page.title | escape }}</h1>
+    <h1 class="fs-4" itemprop="name headline">{{ page.title | escape }}</h1>
     <div class="text-muted pb-2">
-      <i class="bi bi-person text-dark"></i> Author: {{ page.author }} <i class="bi bi-calendar3 text-dark"></i> Date {{ page.date | date: site.date_format }}
+      <i class="bi bi-person text-dark"></i> Author: {{ page.author }} <i class="bi bi-calendar3 text-dark ms-2"></i> Date {{ page.date | date: site.date_format }}
     </div>
   </header>
 
