@@ -3,7 +3,7 @@ layout: post
 title: "First International Exchange Event of 2025 at SDUST Computer Science College"
 author: "Yu Jinling"
 date: 2025-01-08
-tags: news international exchange SDUST
+tags: exchange sdust
 published: true
 ---
 

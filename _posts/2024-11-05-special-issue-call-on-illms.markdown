@@ -3,7 +3,7 @@ layout: post
 title: "A Special Issue Call on ILMs in Applied Soft Computing journal"
 author: "Ayub Ali Emon"
 date: 2024-11-05
-tags: news ILM
+tags: team ILM
 published: true
 ---
 
