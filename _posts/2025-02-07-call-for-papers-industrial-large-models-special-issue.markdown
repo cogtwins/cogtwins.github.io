@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Call for Papers: Special Issue on Industrial Large Models (ILMs)"
-author: "Ayub Ali Emon"
+author: "Ayub Ali Emon, Yu Jinling"
 date: 2025-02-07
 tags: ILMs paper
 published: true
@@ -9,7 +9,8 @@ published: true
 
 We are thrilled to announce the **Call for Papers (CFP)** for a special issue on **Industrial Large Models (ILMs)** in the prestigious journal *Applied Soft Computing*. This special issue, guest-edited by the CogTwins Lab at Shandong University of Science and Technology, focuses on the application of large transformer-based models in industrial settings.  
 
-**Themes of Interest:**  
+<i class="bi bi-lightning-charge"></i> **Themes of Interest:**  
+
 We invite submissions addressing the following topics (but not limited to):  
 - Development and deployment of ILMs across various industrial sectors.  
 - Integration of AI with traditional industrial systems.  
@@ -18,18 +19,21 @@ We invite submissions addressing the following topics (but not limited to):
 - Human-AI collaboration and energy management through ILMs.  
 - Security, privacy, and benchmarking of ILMs in industrial applications.  
 
-**Important Dates:**  
+<i class="bi bi-calendar3"></i> **Important Dates:**  
+
 - **Submission Opens**: February 7, 2025  
 - **Submission Deadline**: April 30, 2025  
 - **Acceptance Notification**: May 15, 2025  
 - **Publication**: July 31, 2025  
 
-**Submission Instructions:**  
-- Manuscripts must be submitted through the *Applied Soft Computing* submission portal: [https://www.sciencedirect.com/journal/applied-soft-computing](https://www.sciencedirect.com/journal/applied-soft-computing).  
+<i class="bi bi-info-circle"></i> **Submission Instructions:**  
+
+- Manuscripts must be submitted through the *Applied Soft Computing* submission portal: [https://www.sciencedirect.com/journal/applied-soft-computing](https://www.sciencedirect.com/journal/applied-soft-computing)
 - Authors must select the **Article Type**: VSI: **Industrial LLMs** during submission.  
 - Submissions will be subject to the journal’s **peer-review process**.  
 
-**Guest Editors:**  
+<i class="bi bi-people"></i> **Guest Editors:**  
+
 - **[Dr. Jiehan Zhou](/jiehan_zhou/)** (Corresponding Editor), Shandong University of Science and Technology, China  
 - **Dr. Enrique Herrera Viedma**, University of Granada, Spain  
 - **Dr. Chunsheng Yang**, Guangzhou University, China & Carleton University, Canada  
@@ -42,13 +46,14 @@ We warmly welcome contributions from researchers and practitioners worldwide. Fo
     <img class="img-fluid img-thumbnail" style="max-height: 520px;"
         src="{{ '/assets/postimg/2025-02-07-call-for-papers-industrial-large-models-special-issue.jpg' | relative_url }}" />
 </div>
+<br>
 
-
-**征稿启事：特刊"工业大模型(ILMs)"**  
+<h1 class="fs-4" itemprop="name headline">征稿启事：特刊工业大模型(ILMs)</h1>
 
 我们很高兴地宣布，由山东科技大学计算机学院CogTwins实验室担任客座编辑的*Applied Soft Computing*期刊特刊“工业大模型（ILMs）”正式征稿。本期特刊聚焦于大型Transformer模型在工业环境中的应用。  
 
-**征稿主题：**  
+<i class="bi bi-lightning-charge"></i> **征稿主题：**  
+
 我们诚邀以下主题的投稿（包括但不限于）：  
 - 工业大模型在各行业的开发与部署。  
 - 人工智能与传统工业系统的融合。  
@@ -57,22 +62,25 @@ We warmly welcome contributions from researchers and practitioners worldwide. Fo
 - 人机协作与能源管理。  
 - 工业大模型在应用中的安全、隐私与基准测试。  
 
-**重要日期：**  
+<i class="bi bi-calendar3"></i> **重要日期：**  
+
 - **投稿开始日期**：2025年2月7日  
 - **投稿截止日期**：2025年4月30日  
 - **录用通知日期**：2025年5月15日  
 - **出版日期**：2025年7月31日  
 
-**投稿指南：**  
-- 请通过*Applied Soft Computing*投稿系统提交稿件：[https://www.sciencedirect.com/journal/applied-soft-computing](https://www.sciencedirect.com/journal/applied-soft-computing)。  
+<i class="bi bi-info-circle"></i> **投稿指南：**  
+
+- 请通过*Applied Soft Computing*投稿系统提交稿件：[https://www.sciencedirect.com/journal/applied-soft-computing](https://www.sciencedirect.com/journal/applied-soft-computing)
 - 作者在投稿时需选择**Article Type**: VSI: **Industrial LLMs**。  
 - 所有投稿将经过期刊的同行评审流程。  
 
-**客座编辑：**  
-- **周杰汉博士**（通讯编辑），山东科技大学，中国  
-- **Enrique Herrera Viedma博士**，格拉纳达大学，西班牙  
-- **杨春生博士**，广州大学，中国 & 卡尔顿大学，加拿大  
-- **魏伟博士**，华中科技大学，中国  
-- **刘玉海博士**，郑州大学，中国  
+<i class="bi bi-people"></i> **客座编辑：**  
+
+- **[周杰韩博士](/jiehan_zhou/)**（通讯编辑），山东科技大学，中国  
+- **Enrique Herrera Viedma博士**，格拉纳达大学，西班牙  
+- **杨春生博士**，广州大学，中国 & 卡尔顿大学，加拿大  
+- **魏巍博士**，华中科技大学，中国  
+- **刘玉海博士**，郑州大学，中国  
 
 我们诚挚欢迎全球研究人员和实践者的投稿。更多详情，请访问[期刊官网](https://www.sciencedirect.com/journal/applied-soft-computing)。  
