@@ -7,8 +7,6 @@ tags: paper team news
 published: true
 ---
 
-We are thrilled to announce that two of our papers have been accepted for presentation at prestigious international conferences in 2025. These acceptances are a testament to the dedication and innovation of our team, as well as the impactful research being conducted in our laboratory.
-
 1. **Paper Title**: “Optimizing Attention for Efficient LLM Inference: A Review”  
    **Conference**: 8th World Conference on Computing and Communication Technologies (WCCCT 2025)  
    **Conference Dates**: April 11-13, 2025  
@@ -24,7 +22,6 @@ The acceptance of these papers is a significant milestone for our team and furth
 <br>
 <h1 class="fs-4" itemprop="name headline">实验室公告：两篇论文在国际会议上成功被接受</h1>
 
-我们非常高兴地宣布，实验室的两篇论文已被国际学术会议接受，并将于2025年进行展示。此次接受不仅是对我们研究工作的充分肯定，也彰显了实验室在相关领域的持续创新与进展：
 
 1. **论文标题**：“Optimizing Attention for Efficient LLM Inference: A Review”  
    **会议名称**：第8届世界计算与通信技术大会（WCCCT 2025）  
