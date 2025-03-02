@@ -8,7 +8,7 @@ permalink: /about/
     About this Site
 </div>
 
-Official web of Cognitive Industrial Digital Twins team.
+Official website of Cognitive Industrial Digital Twins Lab team of Shandong University of Science and Technology.
 
 Licence: **MIT**
 

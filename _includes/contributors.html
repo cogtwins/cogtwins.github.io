@@ -1,9 +1,8 @@
 <section id="contributors">
-    <div id="contributors-list">
+    <div id="contributors-list" class="row">
         Loading...
     </div>
 </section>
-
 
 <script>
     async function fetchContributors() {
@@ -20,12 +19,12 @@
 
             contributors.forEach(contributor => {
                 const contributorElement = document.createElement('div');
-                contributorElement.classList.add('d-flex', 'justify-content-evenly', 'flex-column', 'flex-md-row');
+                contributorElement.classList.add('col-4', 'col-md-2', 'text-center', 'mb-2');
                 contributorElement.innerHTML = `
                     <div class="text-center">
                         <img class="rounded-circle border shadow" height="80px" width="80px"
                             src="${contributor.avatar_url}" alt="${contributor.login}" />
-                        <div class="fs-4 fw-light">
+                        <div class="fs-6 fw-light">
                             <a class="text-decoration-none" href="${contributor.html_url}" target="_blank">
                                 ${contributor.login}
                             </a>
