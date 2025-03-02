@@ -14,7 +14,7 @@ permalink: /cui_huanqing/
   <div class="fs-4 fw-light">Cui Huanqing</div>
   <div class="fs-5 fw-light text-secondary">Professor</div>
   <div class="btn-group mt-2 gap-3">
-    <a href="tel:+8615711207317" class="text-decoration-none">
+    <a href="tel:+8613969817123" class="text-decoration-none">
       <i class="bi bi-telephone-fill"></i> +8613969817123
     </a>
     <a href="mailto:cuihq@sdust.edu.cn" class="text-decoration-none">
