@@ -7,8 +7,9 @@ permalink: /jiehan_zhou/
 <div class="text-center">
 	<img class="rounded-circle border shadow" height="140px" width="140px"
 		src="{{ '/assets/imgs/jiehan.jpg' | relative_url }}" />
-	<div class="fs-4 fw-light">Dr. Jiehan Zhou</div>
-	<div class="fs-5 fw-light text-secondary">Professor | PhD Supervisor | Team Leader</div>
+	<div class="fs-4 fw-bold">Dr. Jiehan Zhou</div>
+	<div class="fs-5 fw-semibold text-secondary">Professor | PhD Supervisor | Team Leader</div>
+	<div class="fs-6 fw-light text-secondary">H-index: 25, Citations: ~3300, Papers: 170+</div>
 	<div class="btn-group mt-2 gap-3">
 		<a href="tel:+8615711207317" class="text-decoration-none">
 			<i class="bi bi-telephone-fill"></i> +8615711207317
@@ -36,6 +37,9 @@ permalink: /jiehan_zhou/
 			<i class="bi bi-eye"></i> View Profile
 		</a>
 	</li>
+	<p>
+		<b class="fs-6 fw-semibold">Journal Editorships: </b> GEs for IEEE IoT Journal, IEEE Transaction on Industrial Informatics 
+	</p>
 </ol>
 
 <div class="fs-4 fw-semibold border-bottom">
@@ -146,29 +150,27 @@ permalink: /jiehan_zhou/
 
 <div class="fs-4 fw-semibold border-bottom">
 	<i class="bi bi-easel"></i>
-	Research Projects
+	Recent Research Fundings (Since 2018)
 </div>
 <p class="mt-3" style="text-align: justify">
 <ol class="list-group-numbered">
 	<li class="list-group-item mb-1">
-		<i>2019-03 to 2022-02</i> Ministry of Science and Technology (MOST),
-		National Key RD Program, Special Project of Networked Collaborative
-		Manufacturing and Intelligent Factory, Research on Key Technologies and
-		Platforms of Cloud Manufacturing Based on Open Architecture - Sub-topic
-		Name: Research on Cloud Manufacturing Resource / Capability Access
-		Technology Based on Edge Computing
+		Tropical Biomass-Derived High-Density Fuel Oil and Biochar Through Flash Pyrolysis, NSFC Intergovernmental Cooperation (China-Sri Lanka), 2025.1-2028.12 
 	</li>
 	<li class="list-group-item mb-1">
-		<i>2019-11 to 2021-10</i> Ministry of Science and Technology (MOST), Key
-		Special Project of Intergovernmental International Scientific and
-		Technological Cooperation (China-Finland), Research and Application of
-		Internet Factory Operation Status Analysis and Optimization
+		An Intelligent Platform for Cognitive Digital Twins Modeling, Shandong Provincial Key Projects, 2025.1-2027.12
 	</li>
 	<li class="list-group-item mb-1">
-		<i>2018-01 to 2020-12</i> Ministry of Science and Technology (MOST), Key
-		Special Project of International Scientific and Technological Cooperation
-		(Sino-German), Smart Cloud Manufacturing Service Research and Demonstration
-		Factory
+		The Soft-Hardware Collaborative Design for Industrial Large Models, Enterprise Commissioned Project, 2024.8-2025.7 
+	</li>
+	<li class="list-group-item mb-1">
+		Cloud Manufacturing Resource/Capability Access Based on Edge Computing. Ministry of Science and Technology (MOST), 2019.3 - 2022.2  
+	</li>
+	<li class="list-group-item mb-1">
+		Analysis, Prediction, and Optimization of Internet Factory Operation Conditions. MOST Intergovernmental Cooperation (China-Finland), 2019.11 - 2021.10  
+	</li>
+	<li class="list-group-item mb-1">
+		Smart Cloud Manufacturing Factories and Services. MOST Intergovernmental Cooperation (China-Germany), 2018.1 - 2020.12 
 	</li>
 </ol>
 </p>
