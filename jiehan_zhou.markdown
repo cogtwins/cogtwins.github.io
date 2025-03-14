@@ -40,7 +40,7 @@ permalink: /jiehan_zhou/
     target="_blank"
     class="btn btn-sm btn-outline-primary"
   >
-    中文简历
+    中文介绍
   </a>
 </div>
 <div class="fs-4 fw-semibold border-bottom mt-3">
