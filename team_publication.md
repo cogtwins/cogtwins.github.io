@@ -3,7 +3,7 @@ layout: default
 title: Team Publication
 permalink: /team_publication/
 ---
-
+<div class="container mt-3">
 <div class="fs-4 fw-semibold border-bottom">
     <i class="bi bi-journal-album"></i>
     Team Publication
@@ -61,3 +61,4 @@ permalink: /team_publication/
         2024
     </li>
 </ol>
+</div>

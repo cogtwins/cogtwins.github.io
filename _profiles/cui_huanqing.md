@@ -3,7 +3,7 @@ layout: default
 title: Cui Huanqing
 permalink: /cui_huanqing/
 ---
-
+<div class="container mt-3">
 <div class="text-center">
   <img
     class="rounded-circle border shadow"
@@ -123,3 +123,4 @@ permalink: /cui_huanqing/
     </li>
   </ol>
 </p>
+</div>

@@ -1,0 +1,23 @@
+.hero {
+    background-image: url('/assets/imgs/section_bg.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+.hover-primary:hover {
+    color: var(--bs-primary) !important;
+}
+
+.footbar {
+    background-color: #111827;
+    color: #ffffff;
+    padding: 1rem;
+}
+
+.hprofile {
+    transition: transform 0.3s ease;
+}
+
+.hprofile:hover {
+    transform: scale(1.10);
+}

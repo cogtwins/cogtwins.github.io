@@ -3,7 +3,7 @@ layout: default
 title: Academic Exchange
 permalink: /academic_exchange/
 ---
-
+<div class="container mt-3">
 <div class="fs-4 fw-semibold border-bottom">
     <i class="bi bi-mortarboard"></i>
     Academic Exchange
@@ -28,4 +28,4 @@ permalink: /academic_exchange/
     </li>
   {% endfor %}
 </ol>
-
+</div>

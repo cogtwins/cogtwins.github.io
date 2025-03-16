@@ -4,6 +4,7 @@ title: Wang Jinrui
 permalink: /wang_jinrui/
 ---
 
+<div class="container mt-3">
 <div class="text-center">
     <img class="rounded-circle border shadow" height="140px" width="140px"
         src="{{ '/assets/imgs/wang_jinrui.png' | relative_url }}" />
@@ -200,3 +201,4 @@ permalink: /wang_jinrui/
         <b>王金瑞</b>, 季珊珊, 张宗振, 等, 并行稀疏滤波在轴承声信号下的故障诊断[J]. 航空学报, 2023, 44(3): 426887. (航空航天核心期刊排名第一，中国科技期刊卓越行动计划梯队期刊)
     </li>
 </ol>
+</div>

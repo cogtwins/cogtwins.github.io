@@ -3,7 +3,7 @@ layout: default
 title: Jiehan Zhou
 permalink: /jiehan_zhou/
 ---
-
+<div class="container mt-3">
 <div class="text-center">
   <img
     class="rounded-circle border shadow"
@@ -360,4 +360,5 @@ permalink: /jiehan_zhou/
       Informatics, 2022, 2022: 1-3
     </li>
   </ol>
+</div>
 </div>

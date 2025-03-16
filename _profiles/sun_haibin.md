@@ -4,6 +4,7 @@ title: Sun Haibin
 permalink: /sun_haibin/
 ---
 
+<div class="container mt-3">
 <div class="text-center">
     <img class="rounded-circle border shadow" height="140px" width="140px"
         src="{{ '/assets/imgs/sun_haibin.png' | relative_url }}" />
@@ -160,3 +161,4 @@ permalink: /sun_haibin/
         <b>Haibin Sun</b>, Xin Chen. Research on technologies of spatial configuration information retrieval. In Proc. Of SNPD 2007, Volume 1, 2007, pages: 396-401.
     </li>
 </ol>
+</div>

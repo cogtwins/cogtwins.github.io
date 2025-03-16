@@ -3,7 +3,7 @@ layout: default
 title: Liu Bing
 permalink: /liu_bing/
 ---
-
+<div class="container mt-3">
 <div class="text-center">
     <img class="rounded-circle border shadow" height="140px" width="140px"
         src="{{ '/assets/imgs/liu_bing.png' | relative_url }}" />
@@ -131,3 +131,4 @@ permalink: /liu_bing/
     <li class="list-group-item mb-1">2019-Tourism recommendation system based on data (EI)</li>
     <li class="list-group-item mb-1">2018-Research on grade evaluation of green urbanization based on cloud matter element model (EI)</li>
 </ol>
+</div>

@@ -3,7 +3,7 @@ layout: default
 title: Li Zhe
 permalink: /li_zhe/
 ---
-
+<div class="container mt-3">
 <div class="text-center">
     <img class="rounded-circle border shadow" height="140px" width="140px"
         src="{{ '/assets/imgs/li_zhe.png' | relative_url }}" />
@@ -200,3 +200,4 @@ permalink: /li_zhe/
         Yongfei Zhang, <b>Zhe Li</b>, Bo Li. Gradient-based Fast Decision for Intra Prediction in HEVC. IEEE Visual Communication and Image Processing (VCIP 2012), San Diego, USA, Nov. 2012. pp: 1-6 (EI, 通信B类会议)
     </li>
 </ol>
+</div>

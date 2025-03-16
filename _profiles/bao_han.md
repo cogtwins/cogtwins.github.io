@@ -3,7 +3,7 @@ layout: default
 title: Bao Han
 permalink: /bao_han/
 ---
-
+<div class="container mt-3">
 <div class="text-center">
     <img class="rounded-circle border shadow" height="140px" width="140px"
         src="{{ '/assets/imgs/bao_han.png' | relative_url }}" />
@@ -127,3 +127,4 @@ permalink: /bao_han/
         Zhang R, <b>Bao H</b>, Sun H, et al. Recommender systems based on ranking performance optimization[J]. Frontiers of Computer Science, 2016, 10: 270-280.
     </li>
 </ol>
+</div>

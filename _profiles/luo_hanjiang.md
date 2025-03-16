@@ -4,6 +4,7 @@ title: Luo Hanjiang
 permalink: /luo_hanjiang/
 ---
 
+<div class="container mt-3">
 <div class="text-center">
     <img class="rounded-circle border shadow" height="140px" width="140px"
         src="{{ '/assets/imgs/luo_hanjiang.png' | relative_url }}" />
@@ -218,3 +219,4 @@ permalink: /luo_hanjiang/
         郭忠文, <b>罗汉江</b>, 洪锋, 杨猛, 倪明选.水下无线传感器网络的研究进展[J].计算机研究与发展,2010,47(3):377-389.（EI检索，CCF推荐中文A类期刊）
     </li>
 </ol>
+</div>

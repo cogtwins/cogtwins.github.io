@@ -1,0 +1,21 @@
+<footer class="mt-auto pt-2 mb-3">
+  <div class="container">
+    <div class="row">
+      <div class="col text-muted">
+        {%- if site.author -%}
+        © {{ site.author | escape }}
+        {%- else -%}
+        © {{ site.title | escape }}
+        {%- endif -%}
+        <br>
+        <a class="u-email text-decoration-none" href="mailto:{{ site.email }}">{{ site.email }}</a>
+      </div>
+      <div class="col"></div>
+      <div class="col">
+        <i class="bi bi-rss-fill"></i> Subscribe <a class="text-decoration-none" href="{{ '/feed.xml' | relative_url }}">via RSS</a>
+        <br>
+        <a class="text-decoration-none" href="{{ '/about' | relative_url }}">About this site</a>
+      </div>
+    </div>
+  </div>
+</footer>
