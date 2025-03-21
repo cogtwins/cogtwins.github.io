@@ -3,204 +3,207 @@ layout: default
 title: Jiehan Zhou
 permalink: /jiehan_zhou/
 ---
+
 <div class="container mt-3">
-<div class="text-center">
-  <img
-    class="rounded-circle border shadow"
-    height="140px"
-    width="140px"
-    src="{{ '/assets/imgs/jiehan.jpg' | relative_url }}"
-  />
-  <div class="fs-4 fw-bold">Dr. Jiehan Zhou</div>
-  <div class="fs-6 fw-semibold text-secondary">
-    Professor | PhD Supervisor | Team Leader
+  <div class="text-center">
+    <img
+      class="rounded-circle border shadow"
+      height="140px"
+      width="140px"
+      src="{{ '/assets/imgs/jiehan.jpg' | relative_url }}"
+    />
+    <div class="fs-4 fw-bold">Dr. Jiehan Zhou</div>
+    <div class="fs-6 fw-semibold text-secondary">
+      Professor | PhD Supervisor | Team Leader
+    </div>
+    <div class="fs-6 fw-light text-secondary">
+      H-index: 25, Citations: ~3300, Papers: 170+
+    </div>
+    <div class="btn-group mt-2 gap-3">
+      <a href="tel:+8615711207317" class="text-decoration-none">
+        <i class="bi bi-telephone-fill"></i> +8615711207317
+      </a>
+      <a href="mailto:jiehan.zhou@sdust.edu.cn" class="text-decoration-none">
+        <i class="bi bi-envelope-at-fill"></i> jiehan.zhou@sdust.edu.cn
+      </a>
+      <a
+        href="https://scholar.google.com/citations?user=Elzkz90AAAAJ"
+        class="text-decoration-none"
+        target="blank"
+      >
+        <i class="bi bi-mortarboard-fill"></i> Google Scholar
+      </a>
+    </div>
   </div>
-  <div class="fs-6 fw-light text-secondary">
-    H-index: 25, Citations: ~3300, Papers: 170+
-  </div>
-  <div class="btn-group mt-2 gap-3">
-    <a href="tel:+8615711207317" class="text-decoration-none">
-      <i class="bi bi-telephone-fill"></i> +8615711207317
-    </a>
-    <a href="mailto:jiehan.zhou@sdust.edu.cn" class="text-decoration-none">
-      <i class="bi bi-envelope-at-fill"></i> jiehan.zhou@sdust.edu.cn
-    </a>
+  <div class="text-center mt-2">
     <a
-      href="https://scholar.google.com/citations?user=Elzkz90AAAAJ"
-      class="text-decoration-none"
-      target="blank"
+      href="http://cise.sdust.edu.cn/home/Page/teacher_detail/catId/30/id/2343.html"
+      target="_blank"
+      class="btn btn-sm btn-outline-primary"
     >
-      <i class="bi bi-mortarboard-fill"></i> Google Scholar
+      中文介绍
     </a>
   </div>
-</div>
-<div class="text-center mt-2">
-  <a
-    href="http://cise.sdust.edu.cn/home/Page/teacher_detail/catId/30/id/2343.html"
-    target="_blank"
-    class="btn btn-sm btn-outline-primary"
-  >
-    中文介绍
-  </a>
-</div>
-<div class="fs-4 fw-semibold border-bottom mt-3">
-  <i class="bi bi-building-check"></i>
-  Current Work
-</div>
-<ol class="list-group-numbered mt-3">
-  <li class="list-group-item mb-2">
-    Professor, Department: Internet of Things Engineering, Shandong University
-    of Science and Technology
-  </li>
-  <li class="list-group-item mb-2">
-    <b class="fs-6 fw-semibold">Journal Editorships: </b> GEs for IEEE IoT
-    Journal, IEEE Transaction on Industrial Informatics
-  </li>
-</ol>
-<div class="fs-4 fw-semibold border-bottom">
-  <i class="bi bi-lightbulb"></i>
-  Research Interests
-</div>
-<p class="mt-3" style="text-align: justify">
-  Intelligence Equipment Operation & Maintenance, Industrial Digital Twins, Auto
-  Mobile Robots, Intelligence Transportation, Visual Intelligence, Industrial
-  Large Models
-</p>
-<div class="fs-4 fw-semibold border-bottom">
-  <i class="bi bi-info-circle"></i>
-  Biography
-</div>
-<p class="mt-3" style="text-align: justify">
-  Dr Jiehan Zhou is a Professor and Director of Global Engagement Office at the
-  School of Computer Science at Shandong University of Science and Technology
-  and a Docent in the Department of Electronics and Information Engineering at
-  the University of Oulu, Finland. He has a rich academic background and
-  professional experience, having obtained a Ph.D. in Mechanical Automation from
-  Huazhong University of Science and Technology in 2000 and a Ph.D. in Computer
-  Engineering from the University of Oulu, Finland in 2011. He has worked at
-  renowned research institutes and universities such as Tsinghua University, VTT
-  Technical Research Centre of Finland, INRIA in France, Luxembourg Institute of
-  Science and Technology (LIST), University of Oulu, and University of Toronto,
-  Canada with over 20 years of international research experience across three
-  continents. He has held positions such as Senior Scientist, Team Leader,
-  Laboratory Director, General Manager of an Industrial Internet company in
-  Germany, and Principal Engineer at a Research Institute on Cloud Computing in
-  Canada. He also serves as a visiting professor at several Chinese
-  universities, including Huazhong University of Science and Technology.
-  Professor Jiehan Zhou has conducted extensive research in intelligent
-  manufacturing, system modeling and simulation, industrial internet, and
-  industrial big data analysis, achieving remarkable accomplishments in both
-  academic and industrial fields. He has undertaken and participated in numerous
-  Chinese, Canadian, European Union projects, including the ERCIM Fellowship
-  Programme, the EU FP6 Amigo Project, and the EU ITEA4-CAM4Home Project.
-</p>
-<div class="fs-4 fw-semibold border-bottom">
-  <i class="bi bi-journal-plus"></i>
-  Education
-</div>
-<ol class="list-group-numbered mt-3">
-  <li class="list-group-item mb-1">
-    Doctor of Technology, Network Information Systems, University of Oulu,
-    Finland, <i>12.2011</i>
-  </li>
-  <li class="list-group-item mb-1">
-    Doctor of Philosophy, Manufacturing and Automation, Huazhong University of
-    Science and Technology, Wuhan, China,
-    <i>01.2001</i>
-  </li>
-  <li class="list-group-item mb-1">
-    Master of Science, Mechanical and Electrical Engineering, Lanzhou Jiaotong
-    University, China, <i>07.1995</i>
-  </li>
-  <li class="list-group-item mb-1">
-    Bachelor of Science, Mechanical and Electrical Engineering, Lanzhou Jiaotong
-    University, Lanzhou, China,
-    <i>07.1992</i>
-  </li>
-</ol>
-<div class="fs-4 fw-semibold border-bottom">
-  <i class="bi bi-briefcase"></i>
-  Work Experiences
-</div>
-<div class="row mt-3" style="text-align: justify">
-  <div class="col-2 mb-1">04/2024-Current</div>
-  <div class="col-10 mb-1">
-    Professor and Director of Global Engagement Office at the School of Computer
-    Science at Shandong University of Science and Technology, Qingdao, China.
+  <div class="fs-4 fw-semibold border-bottom mt-3">
+    <i class="bi bi-building-check"></i>
+    Current Work
   </div>
-  <div class="col-2 mb-1">06/2020-03/2024</div>
-  <div class="col-10 mb-1">
-    Principal Engineer, Huawei Canada Technologies Co. Ltd., Toronto, Canada.
+  <ol class="list-group-numbered mt-3">
+    <li class="list-group-item mb-2">
+      Professor, Department: Internet of Things Engineering, Shandong University
+      of Science and Technology
+    </li>
+    <li class="list-group-item mb-2">
+      <b class="fs-6 fw-semibold">Journal Editorships: </b> GEs for IEEE IoT
+      Journal, IEEE Transaction on Industrial Informatics
+    </li>
+  </ol>
+  <div class="fs-4 fw-semibold border-bottom">
+    <i class="bi bi-lightbulb"></i>
+    Research Interests
   </div>
-  <div class="col-2 mb-1">02/2019-05/2020</div>
-  <div class="col-10 mb-1">
-    General Manager of CASICloud (Germany) Co., Ltd., Frankfurt, Germany.
+  <p class="mt-3" style="text-align: justify">
+    Intelligence Equipment Operation & Maintenance, Industrial Digital Twins,
+    Auto Mobile Robots, Intelligence Transportation, Visual Intelligence,
+    Industrial Large Models
+  </p>
+  <div class="fs-4 fw-semibold border-bottom">
+    <i class="bi bi-info-circle"></i>
+    Biography
   </div>
-  <div class="col-2 mb-1">10/2015-12/2018</div>
-  <div class="col-10 mb-1">
-    Docent Prof., Faculty of Information Technology and Electronical
-    Engineering, University of Oulu.
+  <p class="mt-3" style="text-align: justify">
+    Dr Jiehan Zhou is a Professor and Director of Global Engagement Office at
+    the School of Computer Science at Shandong University of Science and
+    Technology and a Docent in the Department of Electronics and Information
+    Engineering at the University of Oulu, Finland. He has a rich academic
+    background and professional experience, having obtained a Ph.D. in
+    Mechanical Automation from Huazhong University of Science and Technology in
+    2000 and a Ph.D. in Computer Engineering from the University of Oulu,
+    Finland in 2011. He has worked at renowned research institutes and
+    universities such as Tsinghua University, VTT Technical Research Centre of
+    Finland, INRIA in France, Luxembourg Institute of Science and Technology
+    (LIST), University of Oulu, and University of Toronto, Canada with over 20
+    years of international research experience across three continents. He has
+    held positions such as Senior Scientist, Team Leader, Laboratory Director,
+    General Manager of an Industrial Internet company in Germany, and Principal
+    Engineer at a Research Institute on Cloud Computing in Canada. He also
+    serves as a visiting professor at several Chinese universities, including
+    Huazhong University of Science and Technology. Professor Jiehan Zhou has
+    conducted extensive research in intelligent manufacturing, system modeling
+    and simulation, industrial internet, and industrial big data analysis,
+    achieving remarkable accomplishments in both academic and industrial fields.
+    He has undertaken and participated in numerous Chinese, Canadian, European
+    Union projects, including the ERCIM Fellowship Programme, the EU FP6 Amigo
+    Project, and the EU ITEA4-CAM4Home Project.
+  </p>
+  <div class="fs-4 fw-semibold border-bottom">
+    <i class="bi bi-journal-plus"></i>
+    Education
   </div>
-  <div class="col-2 mb-1">09/2013-09/2015</div>
-  <div class="col-10 mb-1">
-    Professor and Project Principal Investigator, Information and Communications
-    Technology, Algonquin College.
-    <br />
-    Director of MiTC Lab (Media, Internet of Things and Cloud Computing).
+  <ol class="list-group-numbered mt-3">
+    <li class="list-group-item mb-1">
+      Doctor of Technology, Network Information Systems, University of Oulu,
+      Finland, <i>12.2011</i>
+    </li>
+    <li class="list-group-item mb-1">
+      Doctor of Philosophy, Manufacturing and Automation, Huazhong University of
+      Science and Technology, Wuhan, China,
+      <i>01.2001</i>
+    </li>
+    <li class="list-group-item mb-1">
+      Master of Science, Mechanical and Electrical Engineering, Lanzhou Jiaotong
+      University, China, <i>07.1995</i>
+    </li>
+    <li class="list-group-item mb-1">
+      Bachelor of Science, Mechanical and Electrical Engineering, Lanzhou
+      Jiaotong University, Lanzhou, China,
+      <i>07.1992</i>
+    </li>
+  </ol>
+  <div class="fs-4 fw-semibold border-bottom">
+    <i class="bi bi-briefcase"></i>
+    Work Experiences
   </div>
-  <div class="col-2 mb-1">07/2012-12/2012</div>
-  <div class="col-10 mb-1">
-    Visiting researcher, Department of Computer and System Engineering at
-    Carleton University, Ottawa, Canada
+  <div class="row mt-3" style="text-align: justify">
+    <div class="col-2 mb-1">04/2024-Current</div>
+    <div class="col-10 mb-1">
+      Professor and Director of Global Engagement Office at the School of
+      Computer Science at Shandong University of Science and Technology,
+      Qingdao, China.
+    </div>
+    <div class="col-2 mb-1">06/2020-03/2024</div>
+    <div class="col-10 mb-1">
+      Principal Engineer, Huawei Canada Technologies Co. Ltd., Toronto, Canada.
+    </div>
+    <div class="col-2 mb-1">02/2019-05/2020</div>
+    <div class="col-10 mb-1">
+      General Manager of CASICloud (Germany) Co., Ltd., Frankfurt, Germany.
+    </div>
+    <div class="col-2 mb-1">10/2015-12/2018</div>
+    <div class="col-10 mb-1">
+      Docent Prof., Faculty of Information Technology and Electronical
+      Engineering, University of Oulu.
+    </div>
+    <div class="col-2 mb-1">09/2013-09/2015</div>
+    <div class="col-10 mb-1">
+      Professor and Project Principal Investigator, Information and
+      Communications Technology, Algonquin College.
+      <br />
+      Director of MiTC Lab (Media, Internet of Things and Cloud Computing).
+    </div>
+    <div class="col-2 mb-1">07/2012-12/2012</div>
+    <div class="col-10 mb-1">
+      Visiting researcher, Department of Computer and System Engineering at
+      Carleton University, Ottawa, Canada
+    </div>
+    <div class="col-2 mb-1">11/2010-05/2011</div>
+    <div class="col-10 mb-1">
+      Visiting researcher, Department of Electronical and Computer Engineering
+      at University of Toronto, Toronto, Canada.
+    </div>
+    <div class="col-2 mb-1">04/2013-06/2013</div>
+    <div class="col-10 mb-1">
+      Visiting research, School of Computer Science and Technology, Huazhong
+      University of Science and Technology, China.
+    </div>
+    <div class="col-2 mb-1">09/2007-08/2013</div>
+    <div class="col-10 mb-1">
+      Research Scientist, Faculty of Information Technology and Electronical
+      Engineering, University of Oulu.
+    </div>
+    <div class="col-2 mb-1">07/2004-08/2007</div>
+    <div class="col-10 mb-1">
+      Research Scientist, VTT (Technical Research Center of Finland), Oulu,
+      Finland.
+    </div>
+    <div class="col-2 mb-1">01/2003-06/2004</div>
+    <div class="col-10 mb-1">
+      Research Scientist, European Research Consortium of Informatics and
+      Mathematics (ERCIM).
+      <br />
+      Research Scientist, INRIA (French National Institute for Research in
+      Computer Science and Control), Sophia-Antipolis, France (10/2003-06/2004).
+      <br />
+      Research Scientist, VTT (Technical Research Center of Finland), Oulu,
+      Finland (01/2003-09/2003).
+    </div>
+    <div class="col-2 mb-1">01/2001-12/2002</div>
+    <div class="col-10 mb-1">
+      Post-doctoral Fellow, Department of Automation, Tsinghua University,
+      Beijing, China.
+    </div>
+    <div class="col-2 mb-1">09/1995-09/2000</div>
+    <div class="col-10 mb-1">
+      PhD Candidate, School of Mechanical Science and Engineering, Huazhong
+      University of Science and Technology, Wuhan, China.
+    </div>
   </div>
-  <div class="col-2 mb-1">11/2010-05/2011</div>
-  <div class="col-10 mb-1">
-    Visiting researcher, Department of Electronical and Computer Engineering at
-    University of Toronto, Toronto, Canada.
+
+  <div class="fs-4 fw-semibold border-bottom">
+    <i class="bi bi-easel"></i>
+    Recent Research Fundings (Since 2018)
   </div>
-  <div class="col-2 mb-1">04/2013-06/2013</div>
-  <div class="col-10 mb-1">
-    Visiting research, School of Computer Science and Technology, Huazhong
-    University of Science and Technology, China.
-  </div>
-  <div class="col-2 mb-1">09/2007-08/2013</div>
-  <div class="col-10 mb-1">
-    Research Scientist, Faculty of Information Technology and Electronical
-    Engineering, University of Oulu.
-  </div>
-  <div class="col-2 mb-1">07/2004-08/2007</div>
-  <div class="col-10 mb-1">
-    Research Scientist, VTT (Technical Research Center of Finland), Oulu,
-    Finland.
-  </div>
-  <div class="col-2 mb-1">01/2003-06/2004</div>
-  <div class="col-10 mb-1">
-    Research Scientist, European Research Consortium of Informatics and
-    Mathematics (ERCIM).
-    <br />
-    Research Scientist, INRIA (French National Institute for Research in
-    Computer Science and Control), Sophia-Antipolis, France (10/2003-06/2004).
-    <br />
-    Research Scientist, VTT (Technical Research Center of Finland), Oulu,
-    Finland (01/2003-09/2003).
-  </div>
-  <div class="col-2 mb-1">01/2001-12/2002</div>
-  <div class="col-10 mb-1">
-    Post-doctoral Fellow, Department of Automation, Tsinghua University,
-    Beijing, China.
-  </div>
-  <div class="col-2 mb-1">09/1995-09/2000</div>
-  <div class="col-10 mb-1">
-    PhD Candidate, School of Mechanical Science and Engineering, Huazhong
-    University of Science and Technology, Wuhan, China.
-  </div>
-</div>
-<div class="fs-4 fw-semibold border-bottom">
-  <i class="bi bi-easel"></i>
-  Recent Research Fundings (Since 2018)
-</div>
-<div class="mt-3" style="text-align: justify">
-  <ol class="list-group-numbered">
+  <ol class="list-group-numbered mt-3">
     <li class="list-group-item mb-1">
       Tropical Biomass-Derived High-Density Fuel Oil and Biochar Through Flash
       Pyrolysis, NSFC Intergovernmental Cooperation (China-Sri Lanka),
@@ -228,13 +231,13 @@ permalink: /jiehan_zhou/
       Cooperation (China-Germany), 2018.1 - 2020.12
     </li>
   </ol>
-</div>
-<div class="fs-4 fw-semibold border-bottom">
-  <i class="bi bi-book"></i>
-  Selected Publications
-</div>
-<div class="mt-3" style="text-align: justify">
-  <ol class="list-group-numbered">
+
+  <div class="fs-4 fw-semibold border-bottom">
+    <i class="bi bi-book"></i>
+    Selected Publications
+  </div>
+
+  <ol class="list-group-numbered mt-3">
     <li class="list-group-item mb-1">
       Z. Zhang, T. Xu, <b>J. Zhou</b>, Y. Chen, Y. Han, and K. Deng, “An
       improved hybrid model for vehicle trajectory prediction considering
@@ -360,5 +363,4 @@ permalink: /jiehan_zhou/
       Informatics, 2022, 2022: 1-3
     </li>
   </ol>
-</div>
 </div>
