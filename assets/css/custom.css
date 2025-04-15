@@ -21,3 +21,8 @@
 .hprofile:hover {
     transform: scale(1.10);
 }
+
+#google_translate_element {
+    float: right;
+    margin: 10px;
+}
