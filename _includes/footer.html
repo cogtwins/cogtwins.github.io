@@ -46,19 +46,11 @@
 </footer>
 
 <script type="text/javascript">
-  function googleTranslateElementInit() {
-    new google.translate.TranslateElement(
-      {
-        pageLanguage: "en",
-        includedLanguages: "zh-CN,es,fr,de,bn,hi,ja,ko,ru,it,pt,ar,vi,th,id,tr",
-        layout: google.translate.TranslateElement.InlineLayout.SIMPLE,
-      },
-      "google_translate_element"
+  function baiduTranslateElementInit() {
+    new baidu.translate.TranslateElement(
+      { pageLanguage: 'en', includedLanguages: 'zh,en,fr,de,es' },
+      'baidu_translate_element'
     );
   }
 </script>
-
-<script
-  type="text/javascript"
-  src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"
-></script>
+<script type="text/javascript" src="//fanyi-api.baidu.com/static/js/translate_api.js"></script>
