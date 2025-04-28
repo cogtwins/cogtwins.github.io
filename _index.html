@@ -1,0 +1,83 @@
+---
+layout: default
+---
+
+<div class="bg-light">
+  <section class="hero">
+    <div
+      class="bg-primary bg-gradient bg-opacity-50 text-white p-4 text-left mb-3"
+    >
+      <div class="container">
+        <h1 class="display-4 fw-bold mt-5 mb-2">Welcome to CogTwins Lab</h1>
+        <div class="col-lg-6">
+          <div class="text-left fs-5 mt-3 mb-3">
+            Aiming for industrial intelligence, driven by advanced information
+            technologies like Digital Twin and Large Language Model
+            technologies, to build an efficient, secure, and intelligent digital
+            industrial ecosystem.
+          </div>
+          <a
+            href=""
+            class="btn btn-light text-primary btn-lg px-4 me-sm-3 rounded-3 mt-2 mb-5 hprofile"
+          >
+            <span class="fw-sm">Join Our Team</span>
+          </a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <div class="text-center fs-2 fw-bold m-4">Our Team</div>
+
+  {%- include team.html -%}
+</div>
+
+<div class="text-center fs-2 fw-bold mt-5 mb-3">Latest News & Updates</div>
+
+<div class="container">
+  {% for post in paginator.posts %}
+  <div
+    class="d-flex flex-column flex-md-row justify-content-between w-100 border-bottom pt-2 pb-2"
+  >
+    <a
+      class="fs-5 text-decoration-none text-dark fw-bold hover-primary"
+      href="{{ post.url | relative_url }}"
+    >
+      {{ post.title | escape }}
+    </a>
+    <span class="text-muted fs-6"
+      >{{ post.date | date: site.date_format }}</span
+    >
+  </div>
+  {% endfor %}
+
+  <div class="pagination mt-4 fs-6">
+    {% if paginator.previous_page %}
+    <a
+      href="{{ paginator.previous_page_path | relative_url }}"
+      class="btn btn-sm btn-primary rounded me-2"
+    >
+      <i class="bi bi-caret-left-fill"></i>
+    </a>
+    {% else %}
+    <div class="btn btn-sm btn-secondary me-2 disabled">
+      <i class="bi bi-caret-left-fill"></i>
+    </div>
+    {% endif %}
+    <span class="text-muted ms-1 me-2">
+      Page {{ paginator.page }} of {{ paginator.total_pages }}
+    </span>
+    {% if paginator.next_page %}
+    <a
+      href="{{ paginator.next_page_path | relative_url }}"
+      class="btn btn-sm btn-primary rounded me-2"
+    >
+      <i class="bi bi-caret-right-fill"></i>
+    </a>
+    {% else %}
+    <div class="btn btn-sm btn-secondary disabled me-2">
+      <i class="bi bi-caret-right-fill"></i>
+    </div>
+    {% endif %}
+  </div>
+</div>

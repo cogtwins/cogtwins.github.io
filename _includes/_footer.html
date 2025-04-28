@@ -1,0 +1,46 @@
+<footer class="py-3 footbar mt-5">
+  <div class="container mt-3">
+    <div class="row">
+      <div class="col-md-6 mb-3">
+        <h5 class="text-white">Contact Us</h5>
+        <span class="text-white">
+          579 Qianwangang Road, Huangdao District, Qingdao, Shandong Province,
+          P.R. China
+          <br />
+          Post Code: 266590
+          <br />
+          Shandong University of Science and Technology
+        </span>
+        <br /><br />
+        <a
+          class="u-email text-decoration-none text-white hover-primary mt-3"
+          href="mailto:{{ site.email }}"
+        >
+          {{ site.email }}
+        </a>
+      </div>
+
+      <div class="col-md-6 mb-2 text-white">
+        <i class="bi bi-rss-fill"></i> Subscribe
+        <a
+          class="text-decoration-none text-white hover-primary"
+          href="{{ '/feed.xml' | relative_url }}"
+          >via RSS</a
+        >
+        <br />
+        <a
+          class="text-decoration-none text-white hover-primary"
+          href="{{ '/about' | relative_url }}"
+        >
+          About this site
+        </a>
+      </div>
+    </div>
+
+    <div
+      class="d-flex flex-column flex-sm-row justify-content-center py-3 my-3 border-top text-white"
+    >
+      <p>© 2025 CogTwins Lab. All rights reserved.</p>
+    </div>
+  </div>
+</footer>

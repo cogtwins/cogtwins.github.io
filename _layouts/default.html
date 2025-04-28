@@ -1,19 +1,11 @@
 <!DOCTYPE html>
-<html lang="{{ page.lang | default: site.lang | default: "en" }}">
-
-  {%- include head.html -%}
-
-  <body class="d-flex flex-column min-vh-100">
-    <header>
-      {%- include header.html -%}
-    </header>
-    <main class="container-flex" role="main">
-      {{ content }}
-    </main>
-
-    {%- include footer.html -%}
-    <script src="{{ '/assets/js/jquery-3.7.1.min.js' | relative_url }}"></script>
-    <script src="{{ '/assets/js/bootstrap.bundle.min.js' | relative_url }}"></script>
-  </body>
-
+<html lang="{{ page.lang | default: site.lang | default: 'en' }}">
+	{%- include head.html -%}
+	<body class="d-flex flex-column min-vh-100">
+		<header>{%- include header.html -%}</header>
+		<main role="main" class="flex-fill">{{ content }}</main>
+		{%- include footer.html -%}
+		<script src="{{ '/assets/js/jquery-3.7.1.min.js' | relative_url }}"></script>
+		<script src="{{ '/assets/js/bootstrap.bundle.min.js' | relative_url }}"></script>
+	</body>
 </html>

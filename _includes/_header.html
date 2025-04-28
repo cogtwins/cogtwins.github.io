@@ -1,0 +1,103 @@
+<header class="py-2 border-bottom bg-body-tertiary">
+  <div class="container">
+    <a class="display-6 text-primary fw-semibold text-decoration-none" href="/"
+      >CogTwins Lab</a
+    >
+    <div class="text-dark fs-5">{{ site.title | escape }}</div>
+  </div>
+</header>
+<nav
+  class="navbar navbar-expand-lg bg-primary bg-gradient"
+  data-bs-theme="light"
+>
+  <div class="container">
+    <button
+      class="navbar-toggler ms-auto"
+      type="button"
+      data-bs-toggle="collapse"
+      data-bs-target="#navbarColor02"
+      aria-controls="navbarColor02"
+      aria-expanded="false"
+      aria-label="Toggle"
+    >
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarColor02">
+      <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+        <li class="nav-item">
+          <a class="nav-link text-white" href="{{ '/' | relative_url }}"
+            >Home</a
+          >
+        </li>
+        <li class="nav-item">
+          <a
+            class="nav-link text-white"
+            href="{{ '/team_publication' | relative_url }}"
+            >Team Publications</a
+          >
+        </li>
+        <li class="nav-item dropdown">
+          <a
+            class="nav-link dropdown-toggle text-white"
+            href="#"
+            role="button"
+            data-bs-toggle="dropdown"
+            aria-expanded="false"
+          >
+            Academic Exchange
+          </a>
+          <ul class="dropdown-menu">
+            <li>
+              <a
+                class="dropdown-item"
+                href="{{ '/academic_exchange' | relative_url }}"
+                >Academic Exchange (SDUST)</a
+              >
+            </li>
+            <li>
+              <a class="dropdown-item disabled" href="" target="_blank"
+                >IEEE (Qingdao)</a
+              >
+            </li>
+          </ul>
+        </li>
+        <li class="nav-item dropdown">
+          <a
+            class="nav-link dropdown-toggle text-white"
+            href="#"
+            role="button"
+            data-bs-toggle="dropdown"
+            aria-expanded="false"
+          >
+            SDUST CIE
+          </a>
+          <ul class="dropdown-menu">
+            <li>
+              <a
+                class="dropdown-item"
+                href="https://cie.sdust.edu.cn/"
+                target="_blank"
+                >Qingdao Campus</a
+              >
+            </li>
+            <li>
+              <a
+                class="dropdown-item"
+                href="https://jnio.sdust.edu.cn/index.htm"
+                target="_blank"
+                >Jinan Campus</a
+              >
+            </li>
+            <li><hr class="dropdown-divider" /></li>
+            <li>
+              <small class="dropdown-item disabled fs-sm text-wrap">
+                Shandong University of Science and Technology - College of
+                International Exchange
+              </small>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </div>
+  </div>
+</nav>

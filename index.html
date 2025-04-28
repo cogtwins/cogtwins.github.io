@@ -2,82 +2,135 @@
 layout: default
 ---
 
-<div class="bg-light">
-  <section class="hero">
-    <div
-      class="bg-primary bg-gradient bg-opacity-50 text-white p-4 text-left mb-3"
-    >
-      <div class="container">
-        <h1 class="display-4 fw-bold mt-5 mb-2">Welcome to CogTwins Lab</h1>
-        <div class="col-lg-6">
-          <div class="text-left fs-5 mt-3 mb-3">
-            Aiming for industrial intelligence, driven by advanced information
-            technologies like Digital Twin and Large Language Model
-            technologies, to build an efficient, secure, and intelligent digital
-            industrial ecosystem.
-          </div>
-          <a
-            href=""
-            class="btn btn-light text-primary btn-lg px-4 me-sm-3 rounded-3 mt-2 mb-5 hprofile"
-          >
-            <span class="fw-sm">Join Our Team</span>
-          </a>
-        </div>
-      </div>
-    </div>
-  </section>
+<section class="hero d-flex align-items-center text-white">
+	<div class="container py-5">
+		<div class="row align-items-center">
+			<div class="col-lg-6">
+				<h1
+					class="display-3 fw-bold mb-3 animate__animated animate__fadeInDown"
+				>
+					Welcome to CogTwins Lab
+				</h1>
+				<p class="lead mb-4 animate__animated animate__fadeInUp">
+					Aiming for industrial intelligence, driven by advanced information
+					technologies like Digital Twin and Large Language Model technologies,
+					to build an efficient, secure, and intelligent digital industrial
+					ecosystem.
+				</p>
+				<a
+					href="#"
+					class="btn btn-light text-primary btn-lg px-4 rounded-pill shadow hprofile"
+					data-bs-toggle="modal"
+					data-bs-target="#joinTeamModal"
+				>
+					Join Our Team
+				</a>
+			</div>
+		</div>
+	</div>
+</section>
 
-  <div class="text-center fs-2 fw-bold m-4">Our Team</div>
+<section class="py-5 bg-light">
+	<div class="container">
+		<div class="text-center mb-5">
+			<h2 class="fw-bold">Our Team</h2>
+		</div>
+		{%- include team.html -%}
+	</div>
+</section>
 
-  {%- include team.html -%}
-</div>
+<section class="py-5" id="news">
+	<div class="container">
+		<div class="text-center mb-5">
+			<h2 class="fw-bold">Latest News & Updates</h2>
+		</div>
+		{% for post in paginator.posts %}
+		<div
+			class="d-flex flex-column flex-md-row justify-content-between w-100 border-bottom pt-2 pb-2"
+		>
+			<a
+				class="fs-5 text-decoration-none text-dark fw-bold hover-primary"
+				href="{{ post.url | relative_url }}"
+			>
+				{{ post.title | escape }}
+			</a>
+			<span class="text-muted fs-6"
+				>{{ post.date | date: site.date_format }}</span
+			>
+		</div>
+		{% endfor %}
 
-<div class="text-center fs-2 fw-bold mt-5 mb-3">Latest News & Updates</div>
+		<nav class="mt-4 d-flex justify-content-center">
+			<ul class="pagination">
+				{% if paginator.previous_page %}
+				<li class="page-item">
+					<a
+						class="page-link hprofile"
+						href="{{ paginator.previous_page_path | relative_url }}#news"
+					>
+						<i class="bi bi-caret-left-fill small"></i>
+					</a>
+				</li>
+				{% endif %}
+				<li class="page-item disabled">
+					<a class="page-link hprofile" href="#"
+						>Page {{ paginator.page }} of {{ paginator.total_pages }}</a
+					>
+				</li>
+				{% if paginator.next_page %}
+				<li class="page-item">
+					<a
+						class="page-link hprofile"
+						href="{{ paginator.next_page_path | relative_url }}#news"
+					>
+						<i class="bi bi-caret-right-fill small"></i>
+					</a>
+				</li>
+				{% endif %}
+			</ul>
+		</nav>
+	</div>
+</section>
 
-<div class="container">
-  {% for post in paginator.posts %}
-  <div
-    class="d-flex flex-column flex-md-row justify-content-between w-100 border-bottom pt-2 pb-2"
-  >
-    <a
-      class="fs-5 text-decoration-none text-dark fw-bold hover-primary"
-      href="{{ post.url | relative_url }}"
-    >
-      {{ post.title | escape }}
-    </a>
-    <span class="text-muted fs-6"
-      >{{ post.date | date: site.date_format }}</span
-    >
-  </div>
-  {% endfor %}
-
-  <div class="pagination mt-4 fs-6">
-    {% if paginator.previous_page %}
-    <a
-      href="{{ paginator.previous_page_path | relative_url }}"
-      class="btn btn-sm btn-primary rounded me-2"
-    >
-      <i class="bi bi-caret-left-fill"></i>
-    </a>
-    {% else %}
-    <div class="btn btn-sm btn-secondary me-2 disabled">
-      <i class="bi bi-caret-left-fill"></i>
-    </div>
-    {% endif %}
-    <span class="text-muted ms-1 me-2">
-      Page {{ paginator.page }} of {{ paginator.total_pages }}
-    </span>
-    {% if paginator.next_page %}
-    <a
-      href="{{ paginator.next_page_path | relative_url }}"
-      class="btn btn-sm btn-primary rounded me-2"
-    >
-      <i class="bi bi-caret-right-fill"></i>
-    </a>
-    {% else %}
-    <div class="btn btn-sm btn-secondary disabled me-2">
-      <i class="bi bi-caret-right-fill"></i>
-    </div>
-    {% endif %}
-  </div>
+<!-- Modal -->
+<div
+	class="modal fade"
+	id="joinTeamModal"
+	tabindex="-1"
+	aria-labelledby="joinTeamModalLabel"
+	aria-hidden="true"
+>
+	<div class="modal-dialog modal-dialog-centered">
+		<div class="modal-content">
+			<div class="modal-header">
+				<h5 class="modal-title" id="joinTeamModalLabel">Join Our Team</h5>
+				<button
+					type="button"
+					class="btn-close"
+					data-bs-dismiss="modal"
+					aria-label="Close"
+				></button>
+			</div>
+			<div class="modal-body text-justify py-4">
+				<p>
+					Interested in working with us? Send us your resume and a brief
+					introduction!
+				</p>
+				<p>有兴趣加入我们吗？请将您的简历和简短介绍发送给我们！</p>
+				<div class="d-flex mt-3">
+					<span class="fw-bold me-2">Email:</span>
+					<a
+						href="mailto:jiehan.zhou@sdust.edu.cn"
+						class="text-primary hover-dark"
+						>jiehan.zhou@sdust.edu.cn</a
+					>
+				</div>
+			</div>
+			<div class="modal-footer justify-content-center">
+				<button type="button" class="btn btn-primary" data-bs-dismiss="modal">
+					Got it!
+				</button>
+			</div>
+		</div>
+	</div>
 </div>

@@ -1,35 +1,40 @@
+- name: "Irene Asamoah"
+  profile: 
+  photo: "/assets/imgs/irene_asamoah.png"
+  title: "PhD"
+
 - name: "Emon"
-  profile: ""
+  profile: 
   photo: "/assets/imgs/emon.jpg"
-  title: ""
+  title: "Graduate"
 
 - name: "Si Yuan"
-  profile: ""
+  profile: 
   photo: "/assets/imgs/siyuan.jpg"
-  title: ""
-
-- name: "Walid"
-  profile: ""
-  photo: "/assets/imgs/walid.jpg"
-  title: ""
+  title: "Graduate"
 
 - name: "Yu Jinling"
-  profile: ""
+  profile: 
   photo: "/assets/imgs/jinling.jpg"
-  title: ""
+  title: "Graduate"
 
 - name: "Phonesamay"
-  profile: ""
+  profile: 
   photo: "/assets/imgs/phonesamay.jpg"
-  title: ""
+  title: "Graduate"
 
 - name: "Kawtar"
-  profile: ""
+  profile: 
   photo: "/assets/imgs/kawtar.jpg"
-  title: ""
+  title: "Graduate"
+
+- name: "Walid"
+  profile: 
+  photo: "/assets/imgs/walid.jpg"
+  title: "Graduate"
 
 - name: "Souhail"
-  profile: ""
+  profile: 
   photo: "/assets/imgs/souhail.jpg"
-  title: ""
+  title: "Graduate"
 

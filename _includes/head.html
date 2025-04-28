@@ -1,25 +1,17 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    {%- seo -%}
-    <link
-      rel="stylesheet"
-      href="{{ '/assets/css/custom.css' | relative_url }}"
-    />
-    <link
-      rel="stylesheet"
-      href="{{ '/assets/css/bootstrap.min.css' | relative_url }}"
-    />
-    <link
-      rel="stylesheet"
-      href="{{ '/assets/css/bootstrap-icons.min.css' | relative_url }}"
-    />
-
-    {%- feed_meta -%} {%- if jekyll.environment == 'production' and
-    site.google_analytics -%} {%- include google-analytics.html -%} {%- endif
-    -%}
-  </head>
-</html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  {%- seo -%}
+  <link href="{{ '/assets/css/bootstrap.min.css' | relative_url }}" rel="stylesheet">
+  <link href="{{ '/assets/css/bootstrap-icons.min.css' | relative_url }}" rel="stylesheet">
+  <link href="{{ '/assets/css/custom.css' | relative_url }}" rel="stylesheet">
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" rel="stylesheet">
+  {%- feed_meta -%}
+  {%- if jekyll.environment == 'production' and site.google_analytics -%}
+    {%- include google-analytics.html -%}
+  {%- endif -%}
+  <style>
+    a { text-decoration: none !important; }
+  </style>
+</head>
