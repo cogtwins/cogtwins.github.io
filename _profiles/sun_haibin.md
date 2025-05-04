@@ -7,7 +7,7 @@ permalink: /sun_haibin/
 <div class="container mt-3">
 <div class="text-center">
     <img class="rounded-circle border shadow" height="140px" width="140px"
-        src="{{ '/assets/imgs/sun_haibin.png' | relative_url }}" />
+        src="{{ '/assets/imgs/sun_haibin.jpg' | relative_url }}" />
     <div class="fs-4 fw-light">
         Dr. Sun Haibin
     </div>

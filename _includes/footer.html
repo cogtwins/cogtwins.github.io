@@ -2,7 +2,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-md-6 mb-3">
-				<h5 class="fw-bold">Contact Us</h5>
+				<h5 class="fw-bold mb-2">Contact Us</h5>
 				<address>
 					579 Qianwangang Road, Huangdao District, Qingdao, Shandong Province,
 					P.R. China<br />
@@ -14,14 +14,19 @@
 				>
 			</div>
 			<div class="col-md-6 text-md-end">
-				<h5 class="fw-bold">Quick Links</h5>
+				<h5 class="fw-bold mb-2">Quick Links</h5>
 				<a
-					class="text-white d-block hover-primary"
+					class="text-white d-block hover-primary mb-2"
+					href="{{ '/' | relative_url }}"
+					>Home</a
+				>
+				<a
+					class="text-white d-block hover-primary mb-2"
 					href="{{ '/feed.xml' | relative_url }}"
 					><i class="bi bi-rss-fill"></i> RSS Feed</a
 				>
 				<a
-					class="text-white d-block hover-primary"
+					class="text-white d-block hover-primary mb-2"
 					href="{{ '/about' | relative_url }}"
 					>About This Site</a
 				>

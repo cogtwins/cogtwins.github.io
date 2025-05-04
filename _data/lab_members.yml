@@ -10,27 +10,27 @@
 
 - name: "Liu Bing"
   profile: "/liu_bing"
-  photo: "/assets/imgs/liu_bing.png"
+  photo: "/assets/imgs/liu_bing.jpg"
   title: "Professor"
 
 - name: "Cui Huanqing"
   profile: "/cui_huanqing"
-  photo: "/assets/imgs/cui_huanqing.png"
+  photo: "/assets/imgs/cui_huanqing.jpg"
   title: "Professor"
 
 - name: "Sun Haibin"
   profile: "/sun_haibin"
-  photo: "/assets/imgs/sun_haibin.png"
+  photo: "/assets/imgs/sun_haibin.jpg"
   title: "Associate Professor"
 
 - name: "Li Zhe"
   profile: "/li_zhe"
-  photo: "/assets/imgs/li_zhe.png"
+  photo: "/assets/imgs/li_zhe.jpg"
   title: "Associate Professor"
 
 - name: "Wang Jinrui"
   profile: "/wang_jinrui"
-  photo: "/assets/imgs/wang_jinrui.png"
+  photo: "/assets/imgs/wang_jinrui.jpg"
   title: "Associate Professor"
 
 - name: "Bao Han"

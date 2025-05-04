@@ -7,7 +7,7 @@ permalink: /wang_jinrui/
 <div class="container mt-3">
 <div class="text-center">
     <img class="rounded-circle border shadow" height="140px" width="140px"
-        src="{{ '/assets/imgs/wang_jinrui.png' | relative_url }}" />
+        src="{{ '/assets/imgs/wang_jinrui.jpg' | relative_url }}" />
     <div class="fs-4 fw-light">
         Wang Jinrui
     </div>

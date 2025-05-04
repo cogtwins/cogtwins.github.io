@@ -6,7 +6,7 @@ permalink: /liu_bing/
 <div class="container mt-3">
 <div class="text-center">
     <img class="rounded-circle border shadow" height="140px" width="140px"
-        src="{{ '/assets/imgs/liu_bing.png' | relative_url }}" />
+        src="{{ '/assets/imgs/liu_bing.jpg' | relative_url }}" />
     <div class="fs-4 fw-light">
         Liu Bing
     </div>

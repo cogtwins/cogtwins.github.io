@@ -9,7 +9,7 @@ permalink: /cui_huanqing/
     class="rounded-circle border shadow"
     height="140px"
     width="140px"
-    src="{{ '/assets/imgs/cui_huanqing.png' | relative_url }}"
+    src="{{ '/assets/imgs/cui_huanqing.jpg' | relative_url }}"
   />
   <div class="fs-4 fw-light">Cui Huanqing</div>
   <div class="fs-5 fw-light text-secondary">Professor</div>

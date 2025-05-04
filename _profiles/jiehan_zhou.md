@@ -63,7 +63,7 @@ permalink: /jiehan_zhou/
     Research Interests
   </div>
   <p class="mt-3" style="text-align: justify">
-    Intelligence Equipment Operation & Maintenance, Industrial Digital Twins,
+    Intelligence Equipment Operation & Maintenance, High Performance Computing, Industrial Digital Twins,
     Auto Mobile Robots, Intelligence Transportation, Visual Intelligence,
     Industrial Large Models
   </p>
