@@ -47,3 +47,42 @@
 .hprofile:hover {
     transform: scale(1.10);
 }
+
+.hover-primary:hover {
+  color: #0d6efd !important; /* Bootstrap primary blue */
+}
+
+.card-img-top {
+  height: 200px;
+  object-fit: cover;
+}
+
+/* Ensure consistent card layout */
+.card {
+  display: flex;
+  flex-direction: column;
+}
+
+/* Fixed height for image area */
+.card-img-wrapper {
+  height: 200px;
+}
+
+/* Fade-in animation for images */
+.lazy-img {
+  opacity: 0;
+  transition: opacity 0.5s ease-in-out;
+}
+
+.lazy-img.loaded {
+  opacity: 1;
+}
+
+/* Optional: Smooth hover effect */
+.news-card {
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+.news-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 10px 20px rgba(0,0,0,0.1);
+}

@@ -4,6 +4,7 @@ title: "CogTwins Team Attend the 2024 China Automation Congress"
 author: "Ayub Ali Emon"
 date: 2024-11-02
 tags: team news
+cover: "/assets/postimg/2024-11-02-cogtwins-members-attend-2024-automation-congress.jpg"
 published: true
 ---
 

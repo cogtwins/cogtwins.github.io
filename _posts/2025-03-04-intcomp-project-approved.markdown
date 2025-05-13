@@ -4,6 +4,7 @@ title: "The Pioneering Cup Intelligent Computing Special Project has been succes
 author: "Yu Jinling"
 date: 2025-03-04
 tags: project
+cover: "/assets/postimg/2025-03-04-intcomp-project-approved-1.png"
 published: true
 ---
 

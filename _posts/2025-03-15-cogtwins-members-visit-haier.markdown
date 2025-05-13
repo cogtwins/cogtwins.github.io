@@ -4,6 +4,7 @@ title: "CogTwins Members Visit Haier Industrial Park and Household Appliance Mus
 author: "王曌嘉"
 date: 2025-03-15
 tags: visit haier
+cover: "/assets/postimg/2025-03-15-cogtwins-members-visit-haier-1.jpg"
 published: true
 ---
 

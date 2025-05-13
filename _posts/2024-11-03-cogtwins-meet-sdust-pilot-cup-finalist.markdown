@@ -4,6 +4,7 @@ title: "Celebrating Success: CogTwins Team Meets SDUST Pilot Cup Finalists"
 author: "Ayub Ali Emon"
 date: 2024-11-03
 tags: team news
+cover: "/assets/postimg/2024-11-03-cogtwins-meet-sdust-pilot-cup-finalist.jpg"
 published: true
 ---
 

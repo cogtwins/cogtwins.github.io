@@ -4,6 +4,7 @@ title: "SDUST Launched the Ceremony of the Pioneer Cup Campus Competition"
 author: "Emon"
 date: 2025-05-09
 tags: sdust campus competition
+cover: "/assets/postimg/2025-05-09-kong-jie.jpg"
 published: true
 ---
 

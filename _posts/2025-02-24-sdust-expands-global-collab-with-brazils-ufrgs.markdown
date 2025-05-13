@@ -4,6 +4,7 @@ title: "SDUST Expands Global Collaboration with Brazil’s UFRGS"
 author: "Emon"
 date: 2025-02-24
 tags: sdust ufrgs collaboration
+cover: "/assets/postimg/2025-02-24-sdust-expands-global-collab-with-brazils-ufrgs.png"
 published: true
 ---
 

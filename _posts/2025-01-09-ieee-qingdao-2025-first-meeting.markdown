@@ -4,6 +4,7 @@ title: "IEEE Chapter (Qingdao) First Meeting of 2025"
 author: "Yu Jinling"
 date: 2025-01-09
 tags: ieee qingdao
+cover: "/assets/postimg/2025-01-09-ieee-qingdao-2025-first-meeting.png"
 published: true
 ---
 

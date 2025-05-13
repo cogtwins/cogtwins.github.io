@@ -4,6 +4,7 @@ title: "SDUST Symposium on Cross-Border Integration in Tech and Industry"
 author: "Emon"
 date: 2025-04-19
 tags: sdust symposium
+cover: "/assets/postimg/2025-04-19-sdust-international-symposium-tech-industry.jpg"
 published: true
 ---
 

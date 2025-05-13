@@ -4,6 +4,7 @@ title: "CogTwins Members Shine in the 2024 National Intelligent Computing Innova
 author: "Ayub Ali Emon"
 date: 2024-11-01
 tags: team news
+cover: "/assets/postimg/2024-11-01-cogtwins-members-in-2024-national-ntelligent-computing-innovation-competition.jpg"
 published: true
 ---
 

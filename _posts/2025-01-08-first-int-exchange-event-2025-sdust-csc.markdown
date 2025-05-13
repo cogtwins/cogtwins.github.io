@@ -4,6 +4,7 @@ title: "First International Exchange Event of 2025 at SDUST Computer Science Col
 author: "Yu Jinling"
 date: 2025-01-08
 tags: exchange sdust
+cover: "/assets/postimg/2025-01-08-first-int-exchange-event-2025-sdust-csc.png"
 published: true
 ---
 

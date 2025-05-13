@@ -4,6 +4,7 @@ title: "Call for Papers: Special Issue on Industrial Large Models (ILMs)"
 author: "Ayub Ali Emon, Yu Jinling"
 date: 2025-02-07
 tags: ILMs paper
+cover: "/assets/postimg/2025-02-07-call-for-papers-industrial-large-models-special-issue.jpg"
 published: true
 ---
 

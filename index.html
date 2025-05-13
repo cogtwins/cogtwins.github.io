@@ -39,58 +39,7 @@ layout: default
 	</div>
 </section>
 
-<section class="py-3" id="news">
-	<div class="container">
-		<div class="text-center mb-5 mt-3">
-			<h2 class="fw-bold">Latest News & Updates</h2>
-		</div>
-		{% for post in paginator.posts %}
-		<div
-			class="d-flex flex-column flex-md-row justify-content-between w-100 border-bottom pt-2 pb-2"
-		>
-			<a
-				class="fs-5 text-decoration-none text-dark fw-bold hover-primary"
-				href="{{ post.url | relative_url }}"
-			>
-				{{ post.title | escape }}
-			</a>
-			<span class="text-muted fs-6"
-				>{{ post.date | date: site.date_format }}</span
-			>
-		</div>
-		{% endfor %}
-
-		<nav class="mt-4 d-flex justify-content-center">
-			<ul class="pagination">
-				{% if paginator.previous_page %}
-				<li class="page-item">
-					<a
-						class="page-link hprofile"
-						href="{{ paginator.previous_page_path | relative_url }}#news"
-					>
-						<i class="bi bi-caret-left-fill small"></i>
-					</a>
-				</li>
-				{% endif %}
-				<li class="page-item disabled">
-					<a class="page-link hprofile" href="#"
-						>Page {{ paginator.page }} of {{ paginator.total_pages }}</a
-					>
-				</li>
-				{% if paginator.next_page %}
-				<li class="page-item">
-					<a
-						class="page-link hprofile"
-						href="{{ paginator.next_page_path | relative_url }}#news"
-					>
-						<i class="bi bi-caret-right-fill small"></i>
-					</a>
-				</li>
-				{% endif %}
-			</ul>
-		</nav>
-	</div>
-</section>
+{%- include news.html -%}
 
 <!-- Modal -->
 <div

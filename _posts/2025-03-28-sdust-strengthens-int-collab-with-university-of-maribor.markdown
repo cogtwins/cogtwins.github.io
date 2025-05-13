@@ -4,6 +4,7 @@ title: "SDUST Strengthens International Collaboration with University of Maribor
 author: "Emon"
 date: 2025-03-28
 tags: sdust maribo collaboration
+cover: "/assets/postimg/2025-03-28-sdust-strengthens-int-collab-with-university-of-maribor.png"
 published: true
 ---
 

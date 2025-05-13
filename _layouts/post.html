@@ -2,12 +2,6 @@
 layout: default
 ---
 
-<link
-	rel="stylesheet"
-	href="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@11.9.0/build/styles/default.min.css"
-/>
-<script src="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@11.9.0/build/highlight.min.js"></script>
-
 <article itemscope itemtype="http://schema.org/BlogPosting">
 	<header class="bg-light p-3">
 		<div class="container">
@@ -39,10 +33,3 @@ layout: default
 
 	<a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
 </article>
-
-<!-- and it's easy to individually load additional languages -->
-<script src="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@11.9.0/build/languages/go.min.js"></script>
-
-<script>
-	hljs.highlightAll();
-</script>

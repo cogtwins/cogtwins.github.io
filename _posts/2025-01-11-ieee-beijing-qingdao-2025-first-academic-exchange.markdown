@@ -4,6 +4,7 @@ title: "IEEE Beijing-Qingdao Chapter Hosts First Academic Exchange Event of 2025
 author: "Ayub Ali Emon"
 date: 2025-01-11
 tags: ieee beijing qingdao
+cover: "/assets/postimg/2025-01-11-ieee-beijing-qingdao-2025-first-academic-exchange.png"
 published: true
 ---
 
