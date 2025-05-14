@@ -4,7 +4,7 @@ title: "SDUST Pioneering Intelligent Computing Competition 2025"
 author: "Emon"
 date: 2025-04-15
 tags: sdust competition
-cover: 
+cover: "/assets/postimg/2025-04-15-sdust-pioneering-intelligent-computing-competition-2025.png"
 published: true
 ---
 

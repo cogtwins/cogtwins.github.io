@@ -4,7 +4,7 @@ title: "Two Papers Accepted for International Conferences"
 author: "Yu Jinling, Ayub Ali Emon"
 date: 2025-02-21
 tags: paper team news
-cover: 
+cover: "/assets/postimg/sdust_logo.png"
 published: true
 ---
 
