@@ -67,3 +67,9 @@ __作者：__ _付景影，摄影：苏晓静；山东科技大学计算机学�
     <br>
     <span class="fst-italic text-small text-secondary">图4 启动会代表合影</span>
 </div>
+
+<div class="alert alert-success mt-2" role="alert">
+  <a href="http://new-chinadaily.com.es/5bda64b0a3101a87ca904f12/912.html" target="_blank" class="alert-link fw-bold">
+    2025全国大学生计算机系统能力大赛—智能计算创新设计赛(先导杯)山东科技大学校内赛启动会顺利召开 - 中国日报网
+  </a>
+</div>

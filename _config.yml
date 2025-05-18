@@ -22,7 +22,7 @@ date_format: "%b %d, %Y"
 title: Cognitive Industrial Digital Twins Lab
 email: jiehan.zhou@sdust.edu.cn
 description: >- # this means to ignore newlines until "baseurl:"
-  Official web of Cognitive Industrial Digital Twins (CogTwins) Lab team
+  Official web of Cognitive Industrial Digital Twins (CogTwins) Lab team of Shandong University of Science and Technology
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://cogtwins.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
