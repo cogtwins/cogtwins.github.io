@@ -2,7 +2,7 @@
 layout: post
 title: "International Office of CSE Hosts Origami Book Light Workshop & Study Abroad Consultation"
 author: "Emon"
-date: 2025-07-015
+date: 2025-07-15
 tags: cse workshop consultation
 cover: "/assets/postimg/2025-07-15-2025-cse-host-origami-workshop-study-abroad-consultation-cover.jpg"
 published: true
