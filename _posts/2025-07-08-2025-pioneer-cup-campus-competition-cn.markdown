@@ -4,13 +4,13 @@ title: '2025"先导智算"山东科技大学校内赛圆满落幕校企共育AI�
 author: "王瞾嘉, 孙思源"
 date: 2025-07-08
 tags: sdust campus competition
-cover: "/assets/postimg/2025-07-08-2025-pioneer-cup-campus-competition-cn-cover.png"
+cover: "/assets/postimg/2025-07-08-2025-pioneer-cup-campus-competition-cn-5.jpg"
 published: true
 ---
 
 <div class="text-center mb-3">
     <img class="img-fluid img-thumbnail" style="max-height: 400px;"
-        src="{{ '/assets/postimg/2025-07-08-2025-pioneer-cup-campus-competition-cn-5.jpg' | relative_url }}" />
+        src="{{ '/assets/postimg/2025-07-08-2025-pioneer-cup-campus-competition-cn-cover.png' | relative_url }}" />
     <br>
     <span class="fst-italic text-small text-secondary">
         7月8日，2025年"先导智算"山东科技大学校内赛颁奖典礼在计算机学院J13-114成功举办。
