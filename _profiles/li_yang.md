@@ -174,8 +174,8 @@ permalink: /li_yang/
         </li>
         <li class="list-group-item mb-1">
             Ministry of Education Industry-University-Research Collaborative Education Project, "Construction and Reform
-            of a Research-Based Challenging Course <Artificial Intelligence Control> Based on the RobeiPlatform" (No.
-                201901174007), January 2020-December 2020.
+            of a Research-Based Challenging Course <b>Artificial Intelligence Control</b> Based on the RobeiPlatform"
+            (No. 201901174007), January 2020-December 2020.
         </li>
         <li class="list-group-item mb-1">
             "Research and Development of an Industrial Internet Security Service Platform," funded by Shanghai
