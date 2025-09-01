@@ -13,7 +13,7 @@ published: true
         src="{{ '/assets/postimg/2025-09-01-welcome-ci-program-interns-from-brazil-ufrgs-cover.jpg' | relative_url }}" />
 </div>
 
-We are delighted to welcome a group of talented interns from the **Federal University of Rio Grande do Sul (UFRGS)**, Brazil, through the **CI Program**. Over the next two months. They will engage in academic collaboration and cultural exchange at our university, bringing fresh perspectives and energy to our campus.  
+We are delighted to welcome a group of talented interns from the **Federal University of Rio Grande do Sul (UFRGS)**, Brazil, through the **CI Program**. Over the next two months, they will engage in academic collaboration and cultural exchange based on our university, bringing fresh perspectives and energy to our campus.  
 
 <div class="text-center mb-3">
     <img class="img-fluid img-thumbnail" style="max-height: 400px;"
