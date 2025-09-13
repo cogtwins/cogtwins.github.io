@@ -25,10 +25,45 @@
 	{% endfor %}
 </div>
 
-<h4 class="mt-5 mb-3">Graduate & PhD Students</h4>
+<h4 class="mt-5 mb-3">PhD Students</h4>
+<div class="row gy-3">
+	{% for member in site.data.phd_members %}
+	<div class="col-6 col-md-4 col-lg-3 col-xl-2 text-center hprofile">
+    {% if member.profile %}
+		<a
+			href="{{ member.profile | relative_url }}"
+			class="text-decoration-none"
+		>
+    {% else %}
+		<a
+			class="disabled text-decoration-none"
+		>
+    {% endif %}
+			<div
+				class="card shadow border-0 h-100 animate__animated animate__fadeInUp"
+			>
+				<img
+					src="{{ member.photo | relative_url }}"
+					class="card-img-top rounded-circle mx-auto mt-3"
+					style="width: 140px; height: 140px; object-fit: cover"
+					alt="{{ member.name }}"
+					loading="lazy"
+				/>
+				<div class="card-body">
+					<h5 class="card-title mb-0 hover-primary">{{ member.name }}</h5>
+					<div class="card-text text-muted small">{{ member.title }}</div>
+				</div>
+			</div>
+		</a>
+	</div>
+	{% endfor %}
+</div>
+
+
+<h4 class="mt-5 mb-3">Graduate Students</h4>
 <div class="row gy-3">
 	{% for member in site.data.graduate_members %}
-	<div class="col-6 col-md-2 text-center hprofile">
+	<div class="col-6 col-md-4 col-lg-3 col-xl-2 text-center hprofile">
     {% if member.profile %}
 		<a
 			href="{{ member.profile | relative_url }}"

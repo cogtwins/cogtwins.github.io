@@ -1,87 +1,63 @@
 <header class="sticky-top">
-	<nav class="navbar navbar-expand-lg navbar-dark bg-primary shadow-sm">
-		<div class="container d-flex justify-content-between align-items-center">
-			<div class="d-flex flex-column">
-				<a class="navbar-brand fw-bold mb-0" href="/">CogTwins Lab</a>
-				<small class="text-white" style="font-size: 0.8rem"
-					>Cognitive Industrial Digital Twins Lab</small
-				>
-			</div>
-			<button
-				class="navbar-toggler"
-				type="button"
-				data-bs-toggle="collapse"
-				data-bs-target="#navbarSupportedContent"
-			>
+	<nav class="navbar navbar-expand-lg navbar-dark bg-primary shadow">
+		<div class="container">
+			<a class="navbar-brand d-flex flex-column" href="/">
+				<span class="fw-bold fs-3 me-lg-2">CogTwins Lab</span>
+				<small class="text-white opacity-75" style="font-size: 0.9rem">Cognitive Industrial Digital Twins Lab</small>
+			</a>
+			
+			<button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent">
 				<span class="navbar-toggler-icon"></span>
 			</button>
+			
 			<div class="collapse navbar-collapse" id="navbarSupportedContent">
 				<ul class="navbar-nav ms-auto mb-2 mb-lg-0">
 					<li class="nav-item">
-						<a
-							class="nav-link active hover-dark"
-							href="{{ '/' | relative_url }}"
-							>Home</a
-						>
+						<a class="nav-link text-white position-relative px-3" href="{{ '/' | relative_url }}">
+							<i class="bi bi-house-door me-1"></i>Home
+						</a>
 					</li>
 					<li class="nav-item">
-						<a
-							class="nav-link active hover-dark"
-							href="{{ '/team_publication' | relative_url }}"
-							>Team Publications</a
-						>
+						<a class="nav-link text-white position-relative px-3" href="{{ '/team_publication' | relative_url }}">
+							<i class="bi bi-journal-text me-1"></i>Team Publications
+						</a>
 					</li>
 					<li class="nav-item dropdown">
-						<a
-							class="nav-link dropdown-toggle active hover-dark"
-							href="#"
-							role="button"
-							data-bs-toggle="dropdown"
-							>Academic Exchange</a
-						>
-						<ul class="dropdown-menu">
+						<a class="nav-link text-white dropdown-toggle px-3" href="#" role="button" data-bs-toggle="dropdown">
+							<i class="bi bi-people me-1"></i>Academic Exchange
+						</a>
+						<ul class="dropdown-menu shadow">
 							<li>
-								<a
-									class="dropdown-item"
-									href="{{ '/academic_exchange' | relative_url }}"
-									>Academic Exchange (SDUST)</a
-								>
+								<a class="dropdown-item d-flex align-items-center" href="{{ '/academic_exchange' | relative_url }}">
+									<i class="bi bi-building me-2"></i>Academic Exchange (SDUST)
+								</a>
 							</li>
 							<li>
-								<a class="dropdown-item disabled" href="#">IEEE (Qingdao)</a>
+								<a class="dropdown-item d-flex align-items-center disabled" href="#">
+									<i class="bi bi-award me-2"></i>IEEE (Qingdao)
+								</a>
 							</li>
 						</ul>
 					</li>
 					<li class="nav-item dropdown">
-						<a
-							class="nav-link dropdown-toggle active hover-dark"
-							href="#"
-							role="button"
-							data-bs-toggle="dropdown"
-							>SDUST CIE</a
-						>
-						<ul class="dropdown-menu">
+						<a class="nav-link text-white dropdown-toggle px-3" href="#" role="button" data-bs-toggle="dropdown">
+							<i class="bi bi-geo-alt me-1"></i>SDUST CIE
+						</a>
+						<ul class="dropdown-menu shadow">
 							<li>
-								<a
-									class="dropdown-item"
-									href="https://cie.sdust.edu.cn/"
-									target="_blank"
-									>Qingdao Campus</a
-								>
+								<a class="dropdown-item d-flex align-items-center" href="https://cie.sdust.edu.cn/" target="_blank">
+									<i class="bi bi-compass me-2"></i>Qingdao Campus
+								</a>
 							</li>
 							<li>
-								<a
-									class="dropdown-item"
-									href="https://jnio.sdust.edu.cn/index.htm"
-									target="_blank"
-									>Jinan Campus</a
-								>
+								<a class="dropdown-item d-flex align-items-center" href="https://jnio.sdust.edu.cn/index.htm" target="_blank">
+									<i class="bi bi-compass-fill me-2"></i>Jinan Campus
+								</a>
 							</li>
-							<li><hr class="dropdown-divider" /></li>
+							<li><hr class="dropdown-divider"></li>
 							<li>
-								<small class="dropdown-item disabled fs-sm text-wrap">
-									Shandong University of Science and Technology - College of
-									International Exchange
+								<small class="dropdown-item-text fs-sm text-wrap opacity-75">
+									College of International Exchange
 								</small>
 							</li>
 						</ul>

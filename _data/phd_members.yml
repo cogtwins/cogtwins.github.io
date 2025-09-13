@@ -1,4 +1,9 @@
-- name: ""
-  profile: ""
-  photo: ""
-  title: ""
+- name: "Wei Wang"
+  profile: 
+  photo: "/assets/imgs/wei_wang.jpg"
+  title: "PhD"
+
+- name: "Irene Asamoah"
+  profile: 
+  photo: "/assets/imgs/irene_asamoah.jpg"
+  title: "PhD"
