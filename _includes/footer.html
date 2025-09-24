@@ -9,7 +9,18 @@
 					Post Code: 266590<br />
 					Shandong University of Science and Technology
 				</address>
-				<a href="mailto:{{ site.email }}" class="text-white hover-primary"
+				<div class="mt-3">
+					<p class="mb-1">
+						<strong>Laboratory:</strong> J13 Building, Room 416
+					</p>
+					<p class="mb-0">
+						<strong>International Office:</strong> J13 Building, Room
+						114
+					</p>
+				</div>
+				<a
+					href="mailto:{{ site.email }}"
+					class="text-white hover-primary mt-3 d-inline-block"
 					>{{ site.email }}</a
 				>
 			</div>
@@ -18,8 +29,9 @@
 				<a
 					class="text-white d-block hover-primary mb-2"
 					href="{{ '/' | relative_url }}"
-					>Home</a
 				>
+					Home
+				</a>
 				<a
 					class="text-white d-block hover-primary mb-2"
 					href="{{ '/feed.xml' | relative_url }}"
@@ -27,17 +39,22 @@
 				>
 				<a
 					class="text-white d-block hover-primary mb-2"
-					href="{{ '/about' | relative_url }}"
-					>About This Site</a
+					href="{{ '/academic_exchange' | relative_url }}"
 				>
+					Academic Exchange
+				</a>
+				<a
+					class="text-white d-block hover-primary mb-2"
+					href="{{ '/about' | relative_url }}"
+				>
+					About This Site
+				</a>
 			</div>
 		</div>
 		<div class="text-center mt-3">
-      <div class="small mb-0 border-top p-3">
-        <p>
-          &copy; 2025 CogTwins Lab. All rights reserved.
-        </p>
-      </div>
+			<div class="small mb-0 border-top p-3">
+				<p>&copy; 2025 CogTwins Lab. All rights reserved.</p>
+			</div>
 		</div>
 	</div>
 </footer>

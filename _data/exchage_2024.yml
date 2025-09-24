@@ -1,3 +1,10 @@
+- serial: 5
+  name: "SDUST International Exchange Programs 2025 Fall"
+  date: "2025-09-24"
+  file_url: "SDUST_International_Exchange_Programs_2025_Fall.pdf"
+  relative_file: true
+  notice: false
+
 - serial: 4
   name: "计算机学院国际部国际交流会"
   date: "2025-01-08"

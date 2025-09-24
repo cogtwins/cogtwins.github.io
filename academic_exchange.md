@@ -14,9 +14,8 @@ permalink: /academic_exchange/
     <li class="list-group-item">
       {% if ex.relative_file %}
         {% if ex.notice %}
-          <a class="text-decoration-none" href="{{ '/academic_exchange/' | append: ex.file_url }}" target="_blank"> {{ ex.name }} </a>
+          <a class="text-decoration-none" href="{{ '/academic_exchange/' | append: ex.file_url }}"> {{ ex.name }} </a>
         {% else %}
-        <!-- Use the local file path -->
           <a class="text-decoration-none" href="{{ '/assets/exchange_2024/' | append: ex.file_url }}" target="_blank"> {{ ex.name }} </a>
         {% endif %}
       {% else %}

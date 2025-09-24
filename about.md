@@ -23,6 +23,18 @@ GitHub repository: <a target="_blank" href="https://github.com/cogtwins/cogtwins
 <br>
 
 <p>
+Created and maintained by lab member <b>Ayub Ali Emon</b>
+<br>
+<b>Email: </b> emon@sdust.edu.cn
+<br>
+<b>GitHub: </b><a target="_blank" href="https://github.com/alfa-echo-niner-ait">
+github.com/alfa-echo-niner-ait
+</a>
+</p>
+
+<br>
+
+<p>
 This design is the based on Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at <a href="https://jekyllrb.com/" target="_blank">jekyllrb.com/</a>
 </p>
 
