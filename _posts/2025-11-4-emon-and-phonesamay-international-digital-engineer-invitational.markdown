@@ -12,4 +12,4 @@ published: true
         src="{{ '/assets/postimg/2025-11-4-emon-and-phonesamay-international-digital-engineer-invitational.jpg' | relative_url }}" />
 </div>
 
-Congratulations to AYUB ALI EMON and PHOUTTHAVONG PHONESAMAY for being selected as finalists in the 1st Shandong Digital Engineer Innovation and Creativity Competition & International Digital Engineer Invitational.热烈祝贺AYUB ALI EMON和PHOUTTHAVONG PHONESAMAY入围首届山东省数字工程师创新创意大赛暨国际数字工程师邀请赛。
+Congratulations to AYUB ALI EMON and PHOUTTHAVONG PHONESAMAY for being selected as finalists in the 1st Shandong Digital Engineer Innovation and Creativity Competition & International Digital Engineer Invitational.热烈祝贺AYUB ALI EMON和PHOUTTHAVONG PHONESAMAY入围首届山东省数字工程师创新创意大赛暨国际数字工程师邀请赛决赛。
