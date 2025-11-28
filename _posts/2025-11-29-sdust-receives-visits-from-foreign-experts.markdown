@@ -7,12 +7,6 @@ tags: International Visit Collaboration
 cover: "/assets/postimg/2025-11-29-sdust-receives-visits-from-foreign-experts.png"
 published: true
 ---
-<div class="text-center">
-    <video class="img-fluid img-thumbnail" style="max-height: 480px;" controls>
-        <source src="{{ '/assets/postvideo/2025-11-29-sdust-receives-visits-from-foreign-experts.mp4' | relative_url }}" type="video/mp4">
-        您的浏览器不支持 HTML5 视频标签。
-    </video>
-</div>
 
 
 
