@@ -41,3 +41,34 @@
 
     fetchContributors();
 </script>
+
+<script src="https://lf-cdn.coze.cn/obj/unpkg/flow-platform/chat-app-sdk/1.2.0-beta.19/libs/cn/index.js"></script>
+    <script>
+      try {
+        new CozeWebSDK.WebChatClient({
+          config: {
+            bot_id: '7570180876928041006',
+            isIframe: false,
+            botInfo: {
+              parameters: {
+                user_name: 'John'
+              }
+            }
+          },
+          componentProps: {
+            title: 'Coze'
+          },
+          auth: {
+            type: 'token',
+            token: 'pat_o69VBUZQeV2zcDbSxL42mfDYwmBAzqhhr7BWZ2OGQuoVvDy5f7lL6brbYV823Pn4',
+            onRefreshToken: function () {
+              return 'pat_o69VBUZQeV2zcDbSxL42mfDYwmBAzqhhr7BWZ2OGQuoVvDy5f7lL6brbYV823Pn4';
+            }
+          }
+        });
+    } catch (error) {
+        console.error('Coze SDK Error:', error);
+        document.body.innerHTML += '<div style="padding: 20px; background: #fee; color: #c00; border: 1px solid #c00;">SDK初始化错误: ' + error.message + '</div>';
+    }
+    </script>
+</body>
