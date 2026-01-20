@@ -16,4 +16,4 @@ published: true
 
 
 A research team from Shandong University of Science and Technology recently held an industry–academia R&D collaboration meeting with Qingdao Haier Smart Life Appliances Co., Ltd. A delegation from the Cogtwins Lab visited the company on site, toured its production processes, and held in-depth discussions with key staff on technical needs, application scenarios, and collaboration models. Following the exchange, the two sides reached preliminary consensus on multiple potential areas of cooperation, laying a solid foundation for further advancing industry–academia–research integration and promoting collaborative innovation.
-山东科技大学科研团队与青岛海尔智慧生活电器有限公司产研合作对接活动近日举行。Cogtwins 实验室一行深入企业一线，实地考察生产流程，并与公司业务骨干围绕技术需求、应用场景与合作模式开展深入交流。双方就多项潜在合作方向达成初步共识，为进一步推进产学研深度融合、实现协同创新奠定了坚实基础。
+近日，cogtwins双创团队师生赴海尔智家小家电产业开展企业调研。实验室教师代表崔焕庆、包含等人与海尔智家小家电产业战略部、海尔集团校企合作处及小家电研发团队领导进行了深入洽谈。双方围绕技术研发、人才培养及成果转化等方向展开交流，并就推动下一步产学研深度融合达成初步合作共识，共同探索智能家电领域创新机遇。
