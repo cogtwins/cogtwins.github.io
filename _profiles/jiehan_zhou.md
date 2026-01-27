@@ -17,7 +17,7 @@ permalink: /jiehan_zhou/
       Professor | PhD Supervisor | Team Leader
     </div>
     <div class="fs-6 fw-light text-secondary">
-      H-index: 25, Citations: ~3300, Papers: 170+
+     
     </div>
     <div class="btn-group mt-2 gap-3">
       <a href="tel:+8615711207317" class="text-decoration-none">
