@@ -17,22 +17,21 @@ layout: default
 						industrial ecosystem.
 					</p>
 					<div
-						class="d-flex flex-wrap gap-3 justify-content-center justify-content-lg-start animate-fade-in delay-3"
-					>
-						<a
-							href="#"
-							class="btn btn-light btn-lg px-4 py-3 rounded-3 fw-semibold"
-							data-bs-toggle="modal"
-							data-bs-target="#joinTeamModal"
-						>
+						class="d-flex flex-wrap gap-3 justify-content-center justify-content-lg-start animate-fade-in delay-3">
+						<a href="#" class="btn btn-light btn-lg px-4 py-3 rounded-3 fw-semibold" data-bs-toggle="modal"
+							data-bs-target="#joinTeamModal">
 							<i class="bi bi-person-plus me-2"></i>Join Our Team
 						</a>
-						<a
-							href="#news"
-							class="btn btn-outline-light btn-lg px-4 py-3 rounded-3 fw-semibold"
-						>
+						<a href="#news" class="btn btn-outline-light btn-lg px-4 py-3 rounded-3 fw-semibold">
 							<i class="bi bi-journal-text me-2"></i>Latest News
 						</a>
+
+						<a href="https://fablab4cogtwins.github.io/" target="_blank"
+							class="btn btn-outline-light btn-lg px-4 py-3 rounded-3 fw-semibold">
+							<i class="bi bi-box-arrow-up-right me-2"></i>CogTwins FabLab
+						</a>
+
+
 					</div>
 				</div>
 			</div>
@@ -52,23 +51,12 @@ layout: default
 {%- include news.html -%}
 
 <!-- Modal -->
-<div
-	class="modal fade"
-	id="joinTeamModal"
-	tabindex="-1"
-	aria-labelledby="joinTeamModalLabel"
-	aria-hidden="true"
->
+<div class="modal fade" id="joinTeamModal" tabindex="-1" aria-labelledby="joinTeamModalLabel" aria-hidden="true">
 	<div class="modal-dialog modal-dialog-centered">
 		<div class="modal-content">
 			<div class="modal-header">
 				<h5 class="modal-title" id="joinTeamModalLabel">Join Our Team</h5>
-				<button
-					type="button"
-					class="btn-close"
-					data-bs-dismiss="modal"
-					aria-label="Close"
-				></button>
+				<button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
 			</div>
 			<div class="modal-body text-justify py-4">
 				<p>
@@ -78,11 +66,8 @@ layout: default
 				<p>有兴趣加入我们吗？请将您的简历和简短介绍发送给我们！</p>
 				<div class="d-flex mt-3">
 					<span class="fw-bold me-2">Email:</span>
-					<a
-						href="mailto:jiehan.zhou@sdust.edu.cn"
-						class="text-primary hover-dark"
-						>jiehan.zhou@sdust.edu.cn</a
-					>
+					<a href="mailto:jiehan.zhou@sdust.edu.cn"
+						class="text-primary hover-dark">jiehan.zhou@sdust.edu.cn</a>
 				</div>
 			</div>
 			<div class="modal-footer justify-content-center">
@@ -93,5 +78,3 @@ layout: default
 		</div>
 	</div>
 </div>
-
-
