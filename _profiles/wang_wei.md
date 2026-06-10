@@ -25,7 +25,7 @@ permalink: /wang_wei/
     Research Interests
 </div>
 <p class="mt-3" style="text-align: justify">
-    High Performance Computing, Performance Optimization, Domestically Developed Technologies, Industrial Large-Scale Models
+    High Performance Computing, Performance Optimization, Domestically Developed Technologies
 
 </p>
 
@@ -39,16 +39,8 @@ permalink: /wang_wei/
 	<li class="list-group-item mb-1"><i>09/2014 - 07/2018</i> B.S. in Computer Science and Technology, Zhengzhou University</li>
 </ol>
 
-<div class="fs-4 fw-semibold border-bottom">
-	<i class="bi bi-briefcase"></i>
-	Work Experiences
-</div>
-<div class="row mt-3 mb-2" style="text-align: justify">
-	<div class="col-2 mb-1">09/2021-08/2025</div>
-	<div class="col-10 mb-1">
-		National Supercomputing Center in Zhengzhou.
-	</div>
-</div>
+
+
 
 <div class="fs-4 fw-semibold border-bottom">
 	<i class="bi bi-award"></i>
@@ -73,10 +65,6 @@ permalink: /wang_wei/
 <ol class="list-group-numbered mt-3">
 	<li class="list-group-item mb-1">
 		<b>Wang W</b>, Han L, Zhou J, et al. TripleOptim: A Comprehensive Optimization Framework for GPTQ Quantization Inference on Heterogeneous Platforms[J]. KSII Transactions on Internet and Information Systems, 2025.
-	</li>
-	<li class="list-group-item mb-1">
-		<b>Wang W</b>, Fan M, Han L, et al. Optimal Implementation of the Box-filter Algorithm Based on Feiteng Platform[C]//2023 IEEE 11th Joint International Information Technology and Artificial Intelligence Conference (ITAIC). IEEE,
-		2023, 11: 1114-1119.
 	</li>
 	<li class="list-group-item mb-1"><b>Wang W</b>, Zhao R, Pei H. Research on Video Inter-prediction Optimization Based on the Shenwei 421 Processor[J]. Journal of Zhongyuan University of Technology, 2021, 32(01): 84-89.</li>
 	<li class="list-group-item mb-1">
