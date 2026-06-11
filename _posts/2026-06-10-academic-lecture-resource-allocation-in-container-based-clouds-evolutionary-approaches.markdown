@@ -36,6 +36,7 @@ published: true
 
 
 
-At 3:00 PM on June 10, an academic lecture titled “Resource Allocation in Container-based Clouds: Evolutionary Approaches” was held in Room J13-114 of the International Office. The lecture was delivered by Associate Professor Hui Ma from Victoria University of Wellington, New Zealand. Focusing on resource scheduling and allocation in container-based cloud environments, she introduced optimization methods based on evolutionary computation and presented related experimental results. The talk explored the practical value of these approaches in improving energy efficiency and reducing container migrations.
+At 3:00 PM on June 10, a lecture in the academic seminar series entitled “Resource Allocation in Container-based Clouds: Evolutionary Approaches” was held in Room J13-114 of the International Office, School of Computer Science. The lecture was delivered by Associate Professor Hui Ma from Victoria University of Wellington, New Zealand. Focusing on resource scheduling and allocation in container-based cloud environments, she introduced optimization methods based on evolutionary computation and presented related experimental results. The talk also explored the practical value of these approaches in improving energy efficiency and reducing container migrations.
 
-6月10日15:00，J13-114国际办公室举办学术讲座《容器云中的资源分配——基于进化计算的方法》。讲座由新西兰惠灵顿维多利亚大学副教授马慧主讲，围绕容器云资源调度与分配问题展开，介绍基于进化计算的优化方法及实验成果，探讨其在节能和减少容器迁移等方面的应用价值。
+
+6月10日15:00，在计算机学院国际办公室J13-114举办系列学术讲座《容器云中的资源分配——基于进化计算的方法》。讲座由新西兰惠灵顿维多利亚大学副教授Hui Ma主讲，围绕容器云资源调度与分配问题展开，介绍基于进化计算的优化方法及实验成果，探讨其在节能和减少容器迁移等方面的应用价值。
