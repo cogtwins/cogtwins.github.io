@@ -60,4 +60,27 @@ download>
 📥 Download Video
 </a>
 
- 
+### 2026-08-03 Meeting
+
+录制: 王威预定的会议
+日期: 2026-08-03 20:04:11
+录制文件：https://meeting.tencent.com/crm/lR0Ee08879
+
+<a class="btn btn-primary"
+href="{{ '/assets/meetingrecords/20260803195924-王威预定的会议-视频.mp4' | relative_url }}"
+download>
+📥 Download Video
+</a>
+
+
+### 2026-08-08 Weekly Meeting
+
+录制：张宇航预定的会议
+日期：2026-08-08 20:02:02
+录制文件：https://meeting.tencent.com/crm/KDYWOen765
+
+<a class="btn btn-primary"
+href="{{ '/assets/meetingrecords/20260808195924-张宇航预定的会议-视频.mp4' | relative_url }}"
+download>
+📥 Download Video
+</a>
