@@ -84,3 +84,28 @@ href="{{ '/assets/meetingrecords/20260808195924-张宇航预定的会议-视频.
 download>
 📥 Download Video
 </a>
+
+### 2026-08-15 Weekly Meeting
+
+录制：张宇航预定的会议
+日期：2026-08-15 20:01:18
+录制文件：https://meeting.tencent.com/crm/lJMZLo8J87
+
+<a class="btn btn-primary"
+href="{{ '/assets/meetingrecords/20260815195300-张宇航预定的会议-视频.mp4' | relative_url }}"
+download>
+📥 Download Video
+</a>
+
+### 2026-08-22 Weekly Meeting
+
+录制: kawtar 静琪预定的会议
+日期: 2026-08-22 20:02:08
+录制文件：https://meeting.tencent.com/crm/2yEYVQR02c
+
+<a class="btn btn-primary"
+href="{{ '/assets/meetingrecords/20260822kawtar静琪预定的会议.mp4' | relative_url }}"
+download>
+📥 Download Video
+</a>
+
