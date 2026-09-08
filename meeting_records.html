@@ -1,0 +1,69 @@
+---
+layout: default
+---
+
+<section class="py-5">
+	<div class="container">
+
+		<div class="row justify-content-center">
+			<div class="col-md-6 col-lg-5">
+
+				<div class="card shadow-sm border-0">
+					<div class="card-body p-5 text-center">
+
+						<i class="bi bi-lock-fill display-4 text-primary"></i>
+
+						<h2 class="fw-bold mt-3">
+							Members Only
+						</h2>
+
+						<p class="text-muted">
+							Please enter the password to access meeting records.
+						</p>
+
+						<div class="mb-3">
+							<input
+								type="password"
+								id="password"
+								class="form-control"
+								placeholder="Enter password"
+							>
+						</div>
+
+						<button
+							onclick="checkPassword()"
+							class="btn btn-primary w-100">
+							<i class="bi bi-unlock me-2"></i>
+							Enter
+						</button>
+
+						<p
+							id="error"
+							class="text-danger mt-3"
+							style="display: none;">
+							Incorrect password.
+						</p>
+
+					</div>
+				</div>
+
+			</div>
+		</div>
+
+	</div>
+</section>
+
+<script>
+function checkPassword() {
+	const password = document.getElementById("password").value;
+
+	// 临时测试密码
+	const correctPassword = "123456";
+
+	if (password === correctPassword) {
+		window.location.href = "meeting_records_list.html";
+	} else {
+		document.getElementById("error").style.display = "block";
+	}
+}
+</script>
