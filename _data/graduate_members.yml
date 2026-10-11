@@ -62,3 +62,13 @@
   profile: 
   photo: "/assets/imgs/elhassan_sahih.jpg"
   title: "Graduate"
+
+- name: "Zhang Kejing"
+  profile: 
+  photo: "/assets/imgs/zhang_kejing.jpg"
+  title: "Graduate"
+
+- name: "Cui Xin"
+  profile: 
+  photo: "/assets/imgs/cui_xin.jpg"
+  title: "Graduate"
