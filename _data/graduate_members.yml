@@ -72,3 +72,13 @@
   profile: 
   photo: "/assets/imgs/cui_xin.jpg"
   title: "Graduate"
+
+- name: "Liu Zhen"
+  profile: 
+  photo: "/assets/imgs/liu_zhen.jpg"
+  title: "Graduate"
+
+- name: "Zhang Jiayuan"
+  profile: 
+  photo: "/assets/imgs/zhang_jiayuan.jpg"
+  title: "Graduate"
