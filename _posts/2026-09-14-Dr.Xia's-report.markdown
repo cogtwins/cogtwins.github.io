@@ -1,0 +1,24 @@
+---
+layout: post
+title: "Dr.Xia's report"
+author: "Jiehan Zhou"
+date: 2026-09-14
+tags: Report
+cover: "/assets/postimg/2026-09-14-Dr.Xia-report.png"
+published: true
+---
+<div class="text-center">
+    <video class="img-fluid img-thumbnail" style="max-height: 480px;" controls>
+        <source src="{{ '/assets/postvideo/2026-09-14-Dr.Xia-report.mp4' | relative_url }}" type="video/mp4">
+        您的浏览器不支持 HTML5 视频标签。
+    </video>
+</div>
+
+
+<div class="text-center">
+    <a href="{{ '/assets/postvideo/2026-09-14-Dr.Xia-report.mp4' | relative_url }}" download>
+        <button class="btn btn-primary">
+            Download Dr. Xia's Report
+        </button>
+    </a>
+</div>
