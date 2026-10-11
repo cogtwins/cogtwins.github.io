@@ -34,6 +34,32 @@ permalink: /jiehan_zhou/
         <i class="bi bi-mortarboard-fill"></i> Google Scholar
       </a>
     </div>
+
+    <div class="w-100"></div>
+      <a
+        href="https://wa.me/16475685460"
+        class="text-decoration-none"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        <i class="bi bi-whatsapp"></i> WhatsApp
+      </a>
+
+
+      <span class="text-decoration-none">
+        <i class="bi bi-wechat"></i> WeChat: george44699
+      </span>
+
+      <a
+        href="https://www.linkedin.com/in/jiehan-zhou-45813b7/"
+        class="text-decoration-none"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        <i class="bi bi-linkedin"></i> LinkedIn
+      </a>
+
+
   </div>
   <div class="text-center mt-2">
     <a
